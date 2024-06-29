@@ -1,0 +1,68 @@
+{
+glyphname = DZcaron;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (1440,0);
+ref = Z;
+},
+{
+alignment = -1;
+pos = (1544,0);
+ref = caroncomb.case;
+}
+);
+width = 2848;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (1439,0);
+ref = Z;
+},
+{
+alignment = -1;
+pos = (1519,0);
+ref = caroncomb.case;
+}
+);
+width = 2798;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (1438,0);
+ref = Z;
+},
+{
+alignment = -1;
+pos = (1498,0);
+ref = caroncomb.case;
+}
+);
+width = 2756;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = Z;
+unicode = 452;
+}

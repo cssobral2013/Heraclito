@@ -1,0 +1,37 @@
+{
+glyphname = Jecyr;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 902;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 830;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 754;
+}
+);
+rightKerningGroup = uni0406;
+unicode = 1032;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = Entailcyr;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (328,0);
+ref = "descender-cy.case";
+}
+);
+width = 1615;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (323,0);
+ref = "descender-cy.case";
+}
+);
+width = 1567;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (318,0);
+ref = "descender-cy.case";
+}
+);
+width = 1527;
+}
+);
+rightKerningGroup = uni0414;
+unicode = 1186;
+}

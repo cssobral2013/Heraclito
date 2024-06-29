@@ -1,0 +1,55 @@
+{
+glyphname = Schwadieresiscyr;
+layers = (
+{
+layerId = "AE507646-E32D-4C28-A9BF-C6C80EE828E0";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Schwa;
+},
+{
+alignment = -1;
+pos = (291,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1550;
+},
+{
+layerId = "DBE9BE39-1FA5-4276-BD2B-1481AA33D3F5";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+},
+{
+alignment = -1;
+pos = (302,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1568;
+},
+{
+layerId = "F53D0B3B-2A59-4D0B-ABA3-F267CF88761D";
+shapes = (
+{
+alignment = -1;
+pos = (-2,0);
+ref = Schwa;
+},
+{
+alignment = -1;
+pos = (311,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1582;
+}
+);
+leftKerningGroup = uni0404_2;
+rightKerningGroup = uni041E;
+unicode = 1242;
+}

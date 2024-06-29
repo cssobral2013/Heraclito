@@ -1,0 +1,56 @@
+{
+glyphname = Omicrontonos;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-746,-144);
+ref = tonos.case;
+}
+);
+width = 1682;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-699,-153);
+ref = tonos.case;
+}
+);
+width = 1691;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-660,-160);
+ref = tonos.case;
+}
+);
+width = 1698;
+}
+);
+leftKerningGroup = Etatonos;
+rightKerningGroup = Theta;
+unicode = 908;
+}

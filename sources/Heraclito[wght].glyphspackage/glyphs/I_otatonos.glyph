@@ -1,0 +1,55 @@
+{
+glyphname = Iotatonos;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-758,-144);
+ref = tonos.case;
+}
+);
+width = 806;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-710,-153);
+ref = tonos.case;
+}
+);
+width = 696;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-670,-160);
+ref = tonos.case;
+}
+);
+width = 604;
+}
+);
+leftKerningGroup = Etatonos;
+unicode = 906;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = palochkacyr;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 584;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = l;
+}
+);
+width = 517;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = l;
+}
+);
+width = 460;
+}
+);
+leftKerningGroup = uni0456_2;
+rightKerningGroup = uni0456;
+unicode = 1231;
+}

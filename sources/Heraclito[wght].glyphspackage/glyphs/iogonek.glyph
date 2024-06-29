@@ -1,0 +1,68 @@
+{
+glyphname = iogonek;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (21,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-76,0);
+ref = ogonekcomb;
+}
+);
+width = 604;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (32,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-213,0);
+ref = ogonekcomb;
+}
+);
+width = 537;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (42,0);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (-328,0);
+ref = ogonekcomb;
+}
+);
+width = 480;
+}
+);
+leftKerningGroup = b2;
+rightKerningGroup = d;
+unicode = 303;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = two.inferior;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+pos = (0,-284);
+ref = two.dnom;
+}
+);
+width = 872;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (0,-282);
+ref = two.dnom;
+}
+);
+width = 821;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (0,-280);
+ref = two.dnom;
+}
+);
+width = 778;
+}
+);
+unicode = 8322;
+}

@@ -1,0 +1,56 @@
+{
+glyphname = Omegatonos;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-708,-144);
+ref = tonos.case;
+}
+);
+width = 1756;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-682,-153);
+ref = tonos.case;
+}
+);
+width = 1704;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-660,-160);
+ref = tonos.case;
+}
+);
+width = 1660;
+}
+);
+leftKerningGroup = Etatonos;
+rightKerningGroup = uni03A9;
+unicode = 911;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = uhornhoi;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (550,0);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (-20,0);
+ref = hookabovecomb;
+}
+);
+width = 1534;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (488,0);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (-36,0);
+ref = hookabovecomb;
+}
+);
+width = 1341;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (436,0);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (-50,0);
+ref = hookabovecomb;
+}
+);
+width = 1178;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = uhorn;
+unicode = 7917;
+}

@@ -1,0 +1,53 @@
+{
+glyphname = igravecyr.loclBGR;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (-20,0);
+ref = gravecomb;
+}
+);
+width = 1168;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+pos = (-2,0);
+ref = u;
+},
+{
+alignment = -1;
+pos = (-38,0);
+ref = gravecomb;
+}
+);
+width = 1133;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = u;
+},
+{
+alignment = -1;
+pos = (-54,0);
+ref = gravecomb;
+}
+);
+width = 1104;
+}
+);
+leftKerningGroup = uni0438.loclBGR;
+}

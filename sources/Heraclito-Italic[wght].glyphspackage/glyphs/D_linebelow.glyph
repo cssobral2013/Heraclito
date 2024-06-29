@@ -1,0 +1,53 @@
+{
+glyphname = Dlinebelow;
+layers = (
+{
+layerId = "AE507646-E32D-4C28-A9BF-C6C80EE828E0";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (110,0);
+ref = macronbelowcomb;
+}
+);
+width = 1460;
+},
+{
+layerId = "DBE9BE39-1FA5-4276-BD2B-1481AA33D3F5";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (105,0);
+ref = macronbelowcomb;
+}
+);
+width = 1470;
+},
+{
+layerId = "F53D0B3B-2A59-4D0B-ABA3-F267CF88761D";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (100,0);
+ref = macronbelowcomb;
+}
+);
+width = 1478;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = D;
+unicode = 7694;
+}

@@ -1,0 +1,53 @@
+{
+glyphname = alphatonos;
+layers = (
+{
+layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (51,0);
+ref = tonos;
+}
+);
+width = 1213;
+},
+{
+layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (42,0);
+ref = tonos;
+}
+);
+width = 1220;
+},
+{
+layerId = "452C7134-94CE-4761-9646-58D083594750";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (35,0);
+ref = tonos;
+}
+);
+width = 1226;
+}
+);
+leftKerningGroup = alpha2;
+rightKerningGroup = alpha;
+unicode = 940;
+}
