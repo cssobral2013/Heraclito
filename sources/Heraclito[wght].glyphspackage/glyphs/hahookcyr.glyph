@@ -2,7 +2,7 @@
 glyphname = hahookcyr;
 layers = (
 {
-layerId = "38BC816E-D43A-41BE-BA15-848C078B51D1";
+layerId = "94D01061-A32A-45A3-B948-3F6416FBC8A6";
 shapes = (
 {
 closed = 1;
@@ -83,7 +83,7 @@ nodes = (
 width = 1204;
 },
 {
-layerId = "CC778D2D-072A-4DB6-BE4E-3C1A765FC49D";
+layerId = "A20360DC-C558-4CC0-982F-E982844551E5";
 shapes = (
 {
 closed = 1;
@@ -164,7 +164,7 @@ nodes = (
 width = 1089;
 },
 {
-layerId = "452C7134-94CE-4761-9646-58D083594750";
+layerId = "50349594-6C27-41CE-BEB9-EE127BFCE265";
 shapes = (
 {
 closed = 1;

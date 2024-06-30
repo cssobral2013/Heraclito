@@ -2,7 +2,17 @@
 glyphname = kgreenlandic;
 layers = (
 {
-layerId = "AE507646-E32D-4C28-A9BF-C6C80EE828E0";
+anchors = (
+{
+name = "#exit";
+position = "{1084, 0}";
+},
+{
+name = top;
+position = "{743, 1004}";
+}
+);
+layerId = "7EF4C8C3-176E-4742-B97B-8B3D28CEB20F";
 shapes = (
 {
 closed = 1;
@@ -65,7 +75,17 @@ nodes = (
 width = 1218;
 },
 {
-layerId = "DBE9BE39-1FA5-4276-BD2B-1481AA33D3F5";
+anchors = (
+{
+name = "#exit";
+position = "{946, 0}";
+},
+{
+name = top;
+position = "{685, 995}";
+}
+);
+layerId = "34633467-B0C3-42A4-965D-4826287A5801";
 shapes = (
 {
 closed = 1;
@@ -128,7 +148,17 @@ nodes = (
 width = 1118;
 },
 {
-layerId = "F53D0B3B-2A59-4D0B-ABA3-F267CF88761D";
+anchors = (
+{
+name = "#exit";
+position = "{830, 0}";
+},
+{
+name = top;
+position = "{637, 988}";
+}
+);
+layerId = "C71A4940-BE13-40D7-A764-AD65D9EEA0EA";
 shapes = (
 {
 closed = 1;

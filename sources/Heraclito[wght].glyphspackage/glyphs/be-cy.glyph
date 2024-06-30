@@ -1,0 +1,17 @@
+{
+glyphname = "be-cy";
+layers = (
+{
+layerId = "50349594-6C27-41CE-BEB9-EE127BFCE265";
+width = 500;
+},
+{
+layerId = "A20360DC-C558-4CC0-982F-E982844551E5";
+width = 500;
+},
+{
+layerId = "94D01061-A32A-45A3-B948-3F6416FBC8A6";
+width = 500;
+}
+);
+}

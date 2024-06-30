@@ -2,7 +2,17 @@
 glyphname = Gjecyr;
 layers = (
 {
-layerId = "AE507646-E32D-4C28-A9BF-C6C80EE828E0";
+anchors = (
+{
+name = bottomright;
+position = "{450, 0}";
+},
+{
+name = top;
+position = "{971, 1920}";
+}
+);
+layerId = "7EF4C8C3-176E-4742-B97B-8B3D28CEB20F";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +27,17 @@ ref = acutecomb.case;
 width = 1180;
 },
 {
-layerId = "DBE9BE39-1FA5-4276-BD2B-1481AA33D3F5";
+anchors = (
+{
+name = bottomright;
+position = "{289, 0}";
+},
+{
+name = top;
+position = "{970, 1850}";
+}
+);
+layerId = "34633467-B0C3-42A4-965D-4826287A5801";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +52,17 @@ ref = acutecomb.case;
 width = 1143;
 },
 {
-layerId = "F53D0B3B-2A59-4D0B-ABA3-F267CF88761D";
+anchors = (
+{
+name = bottomright;
+position = "{153, 0}";
+},
+{
+name = top;
+position = "{970, 1790}";
+}
+);
+layerId = "C71A4940-BE13-40D7-A764-AD65D9EEA0EA";
 shapes = (
 {
 alignment = -1;
