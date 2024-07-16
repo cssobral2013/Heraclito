@@ -2,15 +2,15 @@
 glyphname = "Yusbig-cy";
 layers = (
 {
-layerId = "50349594-6C27-41CE-BEB9-EE127BFCE265";
+layerId = "4B7CD45B-7769-4DE2-BE7C-34587D3AC654";
 width = 500;
 },
 {
-layerId = "A20360DC-C558-4CC0-982F-E982844551E5";
+layerId = "19E1FC53-860E-4D5D-A2A6-9023894BFCE5";
 width = 500;
 },
 {
-layerId = "94D01061-A32A-45A3-B948-3F6416FBC8A6";
+layerId = "8B77E4EB-3567-454C-B5DE-35FF0E228404";
 width = 500;
 }
 );

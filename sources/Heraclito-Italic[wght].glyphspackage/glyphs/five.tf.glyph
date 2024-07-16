@@ -2,7 +2,7 @@
 glyphname = five.tf;
 layers = (
 {
-layerId = "7EF4C8C3-176E-4742-B97B-8B3D28CEB20F";
+layerId = "C35C82B5-966E-4E5A-A975-45FF48335915";
 shapes = (
 {
 closed = 1;
@@ -76,7 +76,7 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "34633467-B0C3-42A4-965D-4826287A5801";
+layerId = "C5E7CDC0-006A-44D9-BB84-2E22B5F2F578";
 shapes = (
 {
 closed = 1;
@@ -116,11 +116,11 @@ nodes = (
 (318,675,o),
 (259,644,c),
 (152,652,l),
-(348,1427,l),
+(378,1427,l),
 (1217,1427,l),
 (1167,1209,l),
-(464,1209,l),
-(579,1292,l),
+(474,1209,l),
+(589,1292,l),
 (450,876,l),
 (470,876,l),
 (510,893,o),
@@ -150,7 +150,7 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "C71A4940-BE13-40D7-A764-AD65D9EEA0EA";
+layerId = "57A176C1-94EA-43E2-97B3-7F69FACCBA50";
 shapes = (
 {
 closed = 1;
