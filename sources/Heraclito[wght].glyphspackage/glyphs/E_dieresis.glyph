@@ -2,7 +2,7 @@
 glyphname = Edieresis;
 layers = (
 {
-layerId = "8B77E4EB-3567-454C-B5DE-35FF0E228404";
+layerId = "1D36A54A-8B27-4198-8587-18798B6117BD";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = dieresiscomb.case;
 width = 1200;
 },
 {
-layerId = "19E1FC53-860E-4D5D-A2A6-9023894BFCE5";
+layerId = "7090A729-84C3-4F19-80F3-27A7A33ACD44";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = dieresiscomb.case;
 width = 1190;
 },
 {
-layerId = "4B7CD45B-7769-4DE2-BE7C-34587D3AC654";
+layerId = "68EEC51A-74C6-41A2-8128-A2F24340309E";
 shapes = (
 {
 alignment = -1;
