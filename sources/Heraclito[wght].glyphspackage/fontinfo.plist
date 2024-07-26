@@ -1325,160 +1325,79 @@ idotaccent,
 jacute,
 "brevecomb-cy.case",
 "descender-cy.case",
-f.calt3,
-OE.001,
-H.bar,
-idotless,
-jdotless,
-f_f,
-f_f.calt,
-"Be-cy",
-"Ge-cy",
-"Gheupturn-cy",
-"De-cy",
-"Zhe-cy",
-"Ze-cy",
-"Ii-cy",
-"El-cy",
-"Pe-cy",
-"U-cy",
-"Ef-cy",
-"Che-cy",
-"Tse-cy",
-"Sha-cy",
-"Shcha-cy",
-"Dzhe-cy",
-"Softsign-cy",
-"Hardsign-cy",
-"Lje-cy",
-"Nje-cy",
-"E-cy",
-"Ereversed-cy",
-"Tshe-cy",
-"Iu-cy",
-"Ia-cy",
-"Dje-cy",
-"Yat-cy",
-"Yusbig-cy",
-"Fita-cy",
-"Izhitsa-cy",
-"Ghestroke-cy",
-"Ghemiddlehook-cy",
-"Kaverticalstroke-cy",
-"Kastroke-cy",
-"Kabashkir-cy",
-"Enghe-cy",
-"Pemiddlehook-cy",
-"Haabkhasian-cy",
-"Tetse-cy",
-"Cheverticalstroke-cy",
-"Shha-cy",
-"Cheabkhasian-cy",
-"Kahook-cy",
-"Enhook-cy",
-"Chekhakassian-cy",
-"Dzeabkhasian-cy",
-"Gestrokehook-cy",
-"Hahook-cy",
-"Hastroke-cy",
-"Reversedze-cy",
-"Elhook-cy",
-"Semisoftsign-cy",
-"Ertick-cy",
-"EnLeftHook-cy",
-"De-cy.loclBGR",
-"El-cy.loclBGR",
-"Ef-cy.loclBGR",
-"be-cy",
-"ve-cy",
-"ge-cy",
-"gheupturn-cy",
-"de-cy",
-"zhe-cy",
-"ze-cy",
-"ii-cy",
-"el-cy",
-"em-cy",
-"en-cy",
-"pe-cy",
-"te-cy",
-"ef-cy",
-"che-cy",
-"tse-cy",
-"sha-cy",
-"shcha-cy",
-"dzhe-cy",
-"softsign-cy",
-"hardsign-cy",
-"lje-cy",
-"nje-cy",
-"e-cy",
-"ereversed-cy",
-"tshe-cy",
-"iu-cy",
-"ia-cy",
-"dje-cy",
-"yat-cy",
-"yusbig-cy",
-"fita-cy",
-"izhitsa-cy",
-"ghestroke-cy",
-"ghemiddlehook-cy",
-"kaverticalstroke-cy",
-"kastroke-cy",
-"kabashkir-cy",
-"enghe-cy",
-"pemiddlehook-cy",
-"haabkhasian-cy",
-"ustrait-cy",
-"ustraitstroke-cy",
-"tetse-cy",
-"cheverticalstroke-cy",
-"kahook-cy",
-"enhook-cy",
-"chekhakassian-cy",
-"dzeabkhasian-cy",
-"gestrokehook-cy",
-"hahook-cy",
-"hastroke-cy",
-"reversedze-cy",
-"elhook-cy",
-"semisoftsign-cy",
-"ertick-cy",
-"enlefthook-cy",
-"ve-cy.loclBGR",
-"ge-cy.loclBGR",
-"de-cy.loclBGR",
-"zhe-cy.loclBGR",
-"ze-cy.loclBGR",
-"el-cy.loclBGR",
-"ef-cy.loclBGR",
-"sha-cy.loclBGR",
-"softsign-cy.loclBGR",
-"hardsign-cy.loclBGR",
-"iu-cy.loclBGR",
-"ghestroke-cy.loclBSH",
-"be-cy.loclSRB",
-kaiSymbol,
-guillemetright,
-colonsign,
-euro,
-liraTurkish,
-rupeeIndian,
-literSign,
-ringhalfleft,
-ringhalfright,
-encyr.loclBGR,
-checyr.loclBGR,
-gecyr.loclSRB,
-decyr.loclSRB,
-pecyr.loclSRB,
-tecyr.loclSRB
+f.calt3
 );
 },
 {
 name = trademark;
 value = "Commissioner is a trademark of Kostas Bartsokas";
+},
+{
+name = GSDimensionPlugin.Dimensions;
+value = {
+"09CD3A9D-9719-4D1B-A1D2-8C0588FE1BBC" = {
+nV = 110;
+oV = 110;
+};
+"1549F9F0-9C47-49C4-93D3-D9E048604B59" = {
+HH = 62;
+HV = 64;
+OH = 66;
+OV = 66;
+nV = 60;
+nd = 64;
+oH = 64;
+oV = 62;
+};
+"1E586BCE-7672-4541-95D2-E6220BD99751" = {
+nV = 222;
+};
+"33E1D1EC-DE64-42BC-A7B3-0EBD09475EFE" = {
+nV = 46;
+nd = 46;
+oH = 45;
+oV = 48;
+};
+"51C6A73B-16C4-41E4-9D4A-F590BB930F37" = {
+HH = 404;
+HV = 490;
+OH = 396;
+OV = 512;
+nV = 444;
+oH = 354;
+oV = 452;
+};
+"68E1DDB2-454E-4373-8D8D-FED2E5ADD9A7" = {
+nV = 143;
+oV = 141;
+};
+"76C16423-34B0-4ECF-AECB-1F530A917043" = {
+nV = 86;
+oH = 77;
+oV = 88;
+};
+"8AB5AD06-5176-40A9-AE27-DD846BC69980" = {
+HH = 31;
+HV = 32;
+OH = 33;
+OV = 33;
+};
+"DD7F8760-F7A7-4482-AF8A-8FD93F25A5F7" = {
+nV = 222;
+};
+};
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Write lastChange";
+value = 0;
 }
 );
 featurePrefixes = (
@@ -1907,6 +1826,52 @@ value = -384;
 {
 name = hheaLineGap;
 value = 404;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = "cap height";
+position = 1426;
+size = 32;
+},
+{
+name = "x-height";
+position = 1004;
+size = 32;
+},
+{
+name = baseline;
+position = 0;
+size = -32;
+},
+{
+name = descender;
+position = -384;
+size = -32;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = -64;
+},
+{
+name = GSOffsetVertical;
+value = -64;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 1464;
+size = 24;
+},
+{
+pos = 1368;
+size = 24;
+}
+);
 }
 );
 guides = (
@@ -1914,15 +1879,21 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "68EEC51A-74C6-41A2-8128-A2F24340309E";
+id = "B65D3DEB-C1FE-4E99-ABBB-AA13A5F125F2";
 metricValues = (
 {
 pos = 1810;
 },
 {
+over = -32;
+pos = 0;
+},
+{
+over = 32;
 pos = 1426;
 },
 {
+over = -32;
 pos = -384;
 },
 {
@@ -1930,7 +1901,15 @@ pos = 0;
 },
 {
 pos = 988;
+},
+{
+over = 32;
+pos = 1004;
 }
+);
+stemValues = (
+64,
+60
 );
 iconName = Light;
 name = Thin;
@@ -2019,6 +1998,52 @@ value = -384;
 {
 name = hheaLineGap;
 value = 404;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = "cap height";
+position = 1426;
+size = 28;
+},
+{
+name = "x-height";
+position = 995;
+size = 26;
+},
+{
+name = baseline;
+position = 0;
+size = -24;
+},
+{
+name = descender;
+position = -384;
+size = -25;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = -64;
+},
+{
+name = GSOffsetVertical;
+value = -64;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 1464;
+size = 24;
+},
+{
+pos = 1368;
+size = 24;
+}
+);
 }
 );
 guides = (
@@ -2026,23 +2051,37 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "7090A729-84C3-4F19-80F3-27A7A33ACD44";
+id = "EBB6BD1C-9525-4B95-94A2-FACE28C4DF76";
 metricValues = (
 {
 pos = 1810;
 },
 {
+over = -24;
+pos = 0;
+},
+{
+over = 28;
 pos = 1426;
 },
 {
+over = -25;
 pos = -384;
 },
 {
 pos = 0;
 },
 {
+over = 26;
 pos = 995;
+},
+{
+pos = 0;
 }
+);
+stemValues = (
+218,
+236
 );
 iconName = SemiBold;
 name = SemiBold;
@@ -2131,6 +2170,52 @@ value = -384;
 {
 name = hheaLineGap;
 value = 404;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = "cap height";
+position = 1426;
+size = 32;
+},
+{
+name = "x-height";
+position = 1004;
+size = 32;
+},
+{
+name = baseline;
+position = 0;
+size = -32;
+},
+{
+name = descender;
+position = -384;
+size = -32;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = -80;
+},
+{
+name = GSOffsetVertical;
+value = -80;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 1466;
+size = 32;
+},
+{
+pos = 1380;
+size = 32;
+}
+);
 }
 );
 guides = (
@@ -2138,23 +2223,37 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "1D36A54A-8B27-4198-8587-18798B6117BD";
+id = "B35F0E5C-A0C7-48D4-9FBC-8D88C206E4CA";
 metricValues = (
 {
 pos = 1810;
 },
 {
+over = -32;
+pos = 0;
+},
+{
+over = 32;
 pos = 1426;
 },
 {
+over = -32;
 pos = -384;
 },
 {
 pos = 0;
 },
 {
+over = 32;
 pos = 1004;
+},
+{
+pos = 0;
 }
+);
+stemValues = (
+400,
+444
 );
 iconName = Bold;
 name = Black;
@@ -2234,7 +2333,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"1D36A54A-8B27-4198-8587-18798B6117BD" = {
+"B35F0E5C-A0C7-48D4-9FBC-8D88C206E4CA" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -160;
@@ -16243,7 +16342,7 @@ question = -60;
 trademark = -80;
 };
 };
-"68EEC51A-74C6-41A2-8128-A2F24340309E" = {
+"B65D3DEB-C1FE-4E99-ABBB-AA13A5F125F2" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -180;
@@ -28060,7 +28159,7 @@ becyr.loclSRB = -40;
 trademark = -80;
 };
 };
-"7090A729-84C3-4F19-80F3-27A7A33ACD44" = {
+"EBB6BD1C-9525-4B95-94A2-FACE28C4DF76" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -171;
@@ -42634,6 +42733,9 @@ metrics = (
 type = ascender;
 },
 {
+type = baseline;
+},
+{
 type = "cap height";
 },
 {
@@ -42644,6 +42746,9 @@ type = "italic angle";
 },
 {
 type = "x-height";
+},
+{
+name = "z.x-height";
 }
 );
 properties = (
@@ -42696,10 +42801,19 @@ value = "The Heraclito Project Authors";
 );
 }
 );
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"68EEC51A-74C6-41A2-8128-A2F24340309E" = {
+"B65D3DEB-C1FE-4E99-ABBB-AA13A5F125F2" = {
 HV = 64;
 HH = 62;
 OV = 66;
@@ -42709,7 +42823,7 @@ oH = 64;
 nV = 60;
 tH = 58;
 };
-"7090A729-84C3-4F19-80F3-27A7A33ACD44" = {
+"EBB6BD1C-9525-4B95-94A2-FACE28C4DF76" = {
 HV = 265;
 HH = 219;
 OV = 270;
@@ -42719,7 +42833,7 @@ oH = 197;
 nV = 206;
 tH = 181;
 };
-"1D36A54A-8B27-4198-8587-18798B6117BD" = {
+"B35F0E5C-A0C7-48D4-9FBC-8D88C206E4CA" = {
 HV = 502;
 HH = 404;
 OV = 512;
@@ -42732,5 +42846,5 @@ tH = 326;
 };
 };
 versionMajor = 2;
-versionMinor = 8;
+versionMinor = 9;
 }
