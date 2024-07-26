@@ -162,6 +162,14 @@ name = tnum2;
 {
 code = "f t tcedilla tcaron tbar tcommaaccent tdotbelow tlinebelow tdieresis";
 name = liga3;
+},
+{
+code = "zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf";
+name = onum;
+},
+{
+code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf";
+name = onum2;
 }
 );
 familyName = "Heraclito VF";
@@ -1304,7 +1312,17 @@ Jacute,
 brevecombcy,
 idotaccent,
 jacute,
-brevecombcy.case
+brevecombcy.case,
+zero.osf,
+one.osf,
+two.osf,
+three.osf,
+four.osf,
+five.osf,
+six.osf,
+seven.osf,
+eight.osf,
+nine.osf
 );
 },
 {
@@ -1852,6 +1870,14 @@ code = "# GSUB feature: Proportional Figures
 
   sub @pnum by @pnum2;";
 tag = pnum;
+},
+{
+code = "# Oldstyle Figures
+
+#> feature
+  sub @onum by @onum2;
+#< feature";
+tag = onum;
 }
 );
 fontMaster = (
@@ -1984,7 +2010,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "9B0C9E3E-BEB6-4BC5-8110-F7258CCDF060";
+id = "6A906F70-B0A1-4ED9-B478-C4668F59BF3C";
 metricValues = (
 {
 pos = 1810;
@@ -2156,7 +2182,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "44FDB26C-3A22-467E-AC26-FA639943C40F";
+id = "10853CE6-D5C4-42A5-A345-B8D535EFC5CA";
 metricValues = (
 {
 pos = 1810;
@@ -2328,7 +2354,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "4DEC7066-344F-4F8A-A00C-DB3202BBB1B9";
+id = "376EABCF-4C28-4B8D-84B7-F555BD3ECEE4";
 metricValues = (
 {
 pos = 1810;
@@ -2438,7 +2464,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"44FDB26C-3A22-467E-AC26-FA639943C40F" = {
+"10853CE6-D5C4-42A5-A345-B8D535EFC5CA" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -130;
 "@MMK_R_T2" = -171;
@@ -14270,7 +14296,7 @@ becyr.loclSRB = -49;
 trademark = -80;
 };
 };
-"4DEC7066-344F-4F8A-A00C-DB3202BBB1B9" = {
+"376EABCF-4C28-4B8D-84B7-F555BD3ECEE4" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -125;
 "@MMK_R_T2" = -160;
@@ -25676,7 +25702,7 @@ becyr.loclSRB = -60;
 trademark = -80;
 };
 };
-"9B0C9E3E-BEB6-4BC5-8110-F7258CCDF060" = {
+"6A906F70-B0A1-4ED9-B478-C4668F59BF3C" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -135;
 "@MMK_R_T2" = -180;
@@ -37594,7 +37620,7 @@ name = vStem0;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"9B0C9E3E-BEB6-4BC5-8110-F7258CCDF060" = {
+"6A906F70-B0A1-4ED9-B478-C4668F59BF3C" = {
 HV = 64;
 HH = 62;
 OV = 68;
@@ -37604,7 +37630,7 @@ oH = 64;
 nV = 62;
 tH = 58;
 };
-"44FDB26C-3A22-467E-AC26-FA639943C40F" = {
+"10853CE6-D5C4-42A5-A345-B8D535EFC5CA" = {
 HV = 264;
 HH = 218;
 OV = 272;
@@ -37614,7 +37640,7 @@ oH = 196;
 nV = 205;
 tH = 180;
 };
-"4DEC7066-344F-4F8A-A00C-DB3202BBB1B9" = {
+"376EABCF-4C28-4B8D-84B7-F555BD3ECEE4" = {
 HV = 502;
 HH = 404;
 OV = 515;

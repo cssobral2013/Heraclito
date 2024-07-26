@@ -2,7 +2,7 @@
 glyphname = cdotaccent;
 layers = (
 {
-layerId = "B35F0E5C-A0C7-48D4-9FBC-8D88C206E4CA";
+layerId = "DBFEB7CD-EA6A-4398-9607-E41666997EF2";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = dotaccentcomb;
 width = 948;
 },
 {
-layerId = "EBB6BD1C-9525-4B95-94A2-FACE28C4DF76";
+layerId = "38EDA6ED-2D3B-4EB9-8093-529BF0DC7182";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = dotaccentcomb;
 width = 978;
 },
 {
-layerId = "B65D3DEB-C1FE-4E99-ABBB-AA13A5F125F2";
+layerId = "5813D18E-CE46-47D4-BE44-DF651A6D3020";
 shapes = (
 {
 alignment = -1;

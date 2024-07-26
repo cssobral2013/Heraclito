@@ -2,7 +2,7 @@
 glyphname = Alphatonos;
 layers = (
 {
-layerId = "4DEC7066-344F-4F8A-A00C-DB3202BBB1B9";
+layerId = "376EABCF-4C28-4B8D-84B7-F555BD3ECEE4";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = tonos.case;
 width = 1506;
 },
 {
-layerId = "44FDB26C-3A22-467E-AC26-FA639943C40F";
+layerId = "10853CE6-D5C4-42A5-A345-B8D535EFC5CA";
 shapes = (
 {
 alignment = -1;
@@ -46,7 +46,7 @@ name = top;
 position = "{913, 1426}";
 }
 );
-layerId = "9B0C9E3E-BEB6-4BC5-8110-F7258CCDF060";
+layerId = "6A906F70-B0A1-4ED9-B478-C4668F59BF3C";
 shapes = (
 {
 alignment = -1;
