@@ -2,23 +2,22 @@
 glyphname = aeacute;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = ae;
 },
 {
 alignment = -1;
-pos = (201,0);
+pos = (-400,0);
 ref = acutecomb;
 }
 );
-width = 1596;
+width = 1594;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +25,7 @@ ref = ae;
 },
 {
 alignment = -1;
-pos = (202,0);
+pos = (-398,0);
 ref = acutecomb;
 }
 );
@@ -36,27 +35,26 @@ width = 1622;
 anchors = (
 {
 name = bottom;
-position = "{674, 0}";
+position = "{675, 0}";
 },
 {
 name = top;
-position = "{1027, 1347}";
+position = "{1028, 1347}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = ae;
 },
 {
 alignment = -1;
-pos = (203,0);
+pos = (-396,0);
 ref = acutecomb;
 }
 );
-width = 1644;
+width = 1646;
 }
 );
 leftKerningGroup = a2;

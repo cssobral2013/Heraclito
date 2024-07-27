@@ -1,0 +1,187 @@
+{
+glyphname = "Ge-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{452, 0}";
+},
+{
+name = top;
+position = "{843, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1002,424);
+type = Stem;
+},
+{
+place = (82,495);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(454,0,l),
+(494,149,o),
+(527,270,o),
+(577,461,cs),
+(686,868,ls),
+(737,1059,o),
+(772,1192,o),
+(813,1346,c),
+(517,1002,l),
+(762,1002,ls),
+(972,1002,o),
+(1119,1002,o),
+(1256,1002,c),
+(1368,1426,l),
+(340,1426,l),
+(297,1266,o),
+(262,1136,o),
+(212,948,cs),
+(82,461,ls),
+(32,271,o),
+(-1,151,o),
+(-41,0,c)
+);
+}
+);
+width = 1180;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{-31, 0}";
+},
+{
+name = top;
+position = "{540, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1198,228);
+type = Stem;
+},
+{
+place = (-166,261);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(293,0,l),
+(334,155,o),
+(369,287,o),
+(417,469,cs),
+(534,909,ls),
+(582,1091,o),
+(619,1229,o),
+(661,1386,c),
+(500,1198,l),
+(754,1198,ls),
+(969,1198,o),
+(1119,1198,o),
+(1258,1198,c),
+(1319,1426,l),
+(410,1426,l),
+(368,1266,o),
+(331,1129,o),
+(283,945,cs),
+(156,469,ls),
+(108,288,o),
+(73,155,o),
+(31,0,c)
+);
+}
+);
+width = 1143;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{155, 0}";
+},
+{
+name = top;
+position = "{879, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1364,62);
+type = Stem;
+},
+{
+place = (218,64);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(198,160,o),
+(236,302,o),
+(282,476,cs),
+(406,944,ls),
+(452,1118,o),
+(490,1261,o),
+(532,1420,c),
+(485,1364,l),
+(747,1364,ls),
+(967,1364,o),
+(1119,1364,o),
+(1261,1364,c),
+(1277,1426,l),
+(469,1426,l),
+(427,1267,o),
+(389,1124,o),
+(342,944,cs),
+(218,476,ls),
+(172,302,o),
+(134,160,o),
+(92,0,c)
+);
+}
+);
+width = 1112;
+}
+);
+rightKerningGroup = uni0403;
+unicode = 1043;
+}

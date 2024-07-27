@@ -2,7 +2,7 @@
 glyphname = Sacutedotaccent;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
@@ -10,19 +10,19 @@ ref = S;
 },
 {
 alignment = -1;
-pos = (127,0);
+pos = (-473,0);
 ref = acutecomb.case;
 },
 {
 alignment = -1;
-pos = (570,494);
+pos = (289,494);
 ref = dotaccentcomb.case;
 }
 );
 width = 1232;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -30,12 +30,12 @@ ref = S;
 },
 {
 alignment = -1;
-pos = (113,0);
+pos = (-487,0);
 ref = acutecomb.case;
 },
 {
 alignment = -1;
-pos = (584,423);
+pos = (350,423);
 ref = dotaccentcomb.case;
 }
 );
@@ -52,7 +52,7 @@ name = top;
 position = "{1012, 2132}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
@@ -60,12 +60,12 @@ ref = S;
 },
 {
 alignment = -1;
-pos = (101,0);
+pos = (-499,0);
 ref = acutecomb.case;
 },
 {
 alignment = -1;
-pos = (596,364);
+pos = (401,364);
 ref = dotaccentcomb.case;
 }
 );

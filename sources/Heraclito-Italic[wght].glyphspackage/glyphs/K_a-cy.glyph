@@ -1,0 +1,82 @@
+{
+glyphname = "Ka-cy";
+layers = (
+{
+anchors = (
+{
+name = "#exit";
+position = "{1260, 0}";
+},
+{
+name = bottom;
+position = "{612, 0}";
+},
+{
+name = top;
+position = "{987, 1426}";
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = K;
+}
+);
+width = 1458;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{1169, 0}";
+},
+{
+name = bottom;
+position = "{571, 0}";
+},
+{
+name = top;
+position = "{946, 1426}";
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = K;
+}
+);
+width = 1371;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{1093, 0}";
+},
+{
+name = bottom;
+position = "{536, 0}";
+},
+{
+name = top;
+position = "{911, 1426}";
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = K;
+}
+);
+width = 1298;
+}
+);
+rightKerningGroup = uni040C;
+unicode = 1050;
+}

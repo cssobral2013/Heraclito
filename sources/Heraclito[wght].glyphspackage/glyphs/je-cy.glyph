@@ -1,0 +1,63 @@
+{
+glyphname = "je-cy";
+layers = (
+{
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+alignment = -1;
+pos = (27,0);
+ref = dotaccentcomb;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{278, -384}";
+},
+{
+name = top;
+position = "{269, 1403}";
+}
+);
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+alignment = -1;
+pos = (34,0);
+ref = dotaccentcomb;
+}
+);
+width = 534;
+},
+{
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+alignment = -1;
+pos = (40,0);
+ref = dotaccentcomb;
+}
+);
+width = 474;
+}
+);
+leftKerningGroup = uni0456_2;
+rightKerningGroup = uni0456;
+unicode = 1112;
+}

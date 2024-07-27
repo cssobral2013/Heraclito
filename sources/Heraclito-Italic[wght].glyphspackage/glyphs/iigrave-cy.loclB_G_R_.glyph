@@ -1,0 +1,188 @@
+{
+glyphname = "iigrave-cy.loclBGR";
+layers = (
+{
+anchors = (
+{
+name = "#exit";
+position = "{964, 0}";
+},
+{
+name = bottom;
+position = "{450, 0}";
+},
+{
+name = ogonek;
+position = "{966, 0}";
+},
+{
+name = top;
+position = "{848, 1518}";
+},
+{
+name = topright;
+position = "{1283, 1004}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-32,390);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (142,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1016,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (71,462);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (-620,0);
+ref = gravecomb;
+}
+);
+width = 1168;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{866, 0}";
+},
+{
+name = bottom;
+position = "{431, 0}";
+},
+{
+name = ogonek;
+position = "{866, 0}";
+},
+{
+name = top;
+position = "{807, 1439}";
+},
+{
+name = topright;
+position = "{1216, 995}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-24,213);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (160,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1003,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (135,245);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (-3,0);
+ref = u;
+},
+{
+alignment = -1;
+pos = (-639,0);
+ref = gravecomb;
+}
+);
+width = 1133;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{784, 0}";
+},
+{
+name = bottom;
+position = "{416, 0}";
+},
+{
+name = ogonek;
+position = "{784, 0}";
+},
+{
+name = top;
+position = "{774, 1372}";
+},
+{
+name = topright;
+position = "{1162, 988}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (176,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (992,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (189,61);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = u;
+},
+{
+alignment = -1;
+pos = (-655,0);
+ref = gravecomb;
+}
+);
+width = 1104;
+}
+);
+leftKerningGroup = uni0438.loclBGR;
+}

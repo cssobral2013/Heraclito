@@ -2,7 +2,30 @@
 glyphname = udotbelow;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-32,390);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (142,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1016,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (71,462);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
@@ -10,14 +33,37 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (-18,0);
+pos = (-618,0);
 ref = dotbelowcomb;
 }
 );
 width = 1168;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (-24,213);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (160,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1003,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (138,245);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -25,7 +71,7 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (-35,0);
+pos = (-635,0);
 ref = dotbelowcomb;
 }
 );
@@ -35,39 +81,61 @@ width = 1130;
 anchors = (
 {
 name = "#exit";
-position = "{788, 0}";
+position = "{789, 0}";
 },
 {
 name = bottom;
-position = "{420, 0}";
+position = "{421, 0}";
 },
 {
 name = ogonek;
-position = "{788, 0}";
+position = "{789, 0}";
 },
 {
 name = top;
-position = "{680, 988}";
+position = "{681, 988}";
 },
 {
 name = topright;
-position = "{1166, 988}";
+position = "{1167, 988}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (176,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (992,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (194,61);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = u;
 },
 {
 alignment = -1;
-pos = (-51,0);
+pos = (-650,0);
 ref = dotbelowcomb;
 }
 );
-width = 1096;
+width = 1098;
 }
 );
 leftKerningGroup = u;

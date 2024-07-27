@@ -1,0 +1,174 @@
+{
+glyphname = "ka-cy.loclBGR";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{476, 0}";
+},
+{
+name = top;
+position = "{861, 1466}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (1004,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (1500,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (352,284);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1468,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (198,444);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+ref = k;
+}
+);
+width = 1218;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{432, 0}";
+},
+{
+name = top;
+position = "{815, 1455}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (995,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (1487,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (419,160);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1464,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (270,235);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = k;
+}
+);
+width = 1113;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{396, 0}";
+},
+{
+name = top;
+position = "{776, 1446}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (988,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (1478,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (476,56);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1462,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (331,59);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = k;
+}
+);
+width = 1024;
+}
+);
+leftKerningGroup = uni0456_2;
+rightKerningGroup = uni0436;
+}

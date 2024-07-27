@@ -2,28 +2,67 @@
 glyphname = otildemacron;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-32,354);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (682,354);
+type = Stem;
+},
+{
+place = (49,445);
+type = Stem;
+},
+{
+place = (703,445);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = o;
 },
 {
 alignment = -1;
-pos = (-3,0);
+pos = (-602,0);
 ref = tildecomb;
 },
 {
 alignment = -1;
-pos = (118,490);
+pos = (-481,490);
 ref = macroncomb;
 }
 );
-width = 1194;
+width = 1196;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (-24,197);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (824,197);
+type = Stem;
+},
+{
+place = (96,237);
+type = Stem;
+},
+{
+place = (862,237);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -31,12 +70,12 @@ ref = o;
 },
 {
 alignment = -1;
-pos = (-3,0);
+pos = (-603,0);
 ref = tildecomb;
 },
 {
 alignment = -1;
-pos = (104,421);
+pos = (-496,421);
 ref = macroncomb;
 }
 );
@@ -46,44 +85,63 @@ width = 1195;
 anchors = (
 {
 name = bottom;
-position = "{466, 0}";
+position = "{465, 0}";
 },
 {
 name = center;
-position = "{596, 494}";
+position = "{595, 494}";
 },
 {
 name = ogonek;
-position = "{659, 0}";
+position = "{658, 0}";
 },
 {
 name = top;
-position = "{911, 1698}";
+position = "{910, 1698}";
 },
 {
 name = topright;
-position = "{1206, 988}";
+position = "{1205, 988}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (944,64);
+type = Stem;
+},
+{
+place = (137,62);
+type = Stem;
+},
+{
+place = (996,62);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = o;
 },
 {
 alignment = -1;
-pos = (-3,0);
+pos = (-604,0);
 ref = tildecomb;
 },
 {
 alignment = -1;
-pos = (92,362);
+pos = (-509,362);
 ref = macroncomb;
 }
 );
-width = 1196;
+width = 1194;
 }
 );
 leftKerningGroup = c;

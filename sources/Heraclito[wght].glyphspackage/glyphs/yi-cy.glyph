@@ -1,0 +1,67 @@
+{
+glyphname = "yi-cy";
+layers = (
+{
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-296,0);
+ref = dieresiscomb.narrow;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{268, 0}";
+},
+{
+name = ogonek;
+position = "{386, 0}";
+},
+{
+name = top;
+position = "{266, 1382}";
+}
+);
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-330,0);
+ref = dieresiscomb.narrow;
+}
+);
+width = 537;
+},
+{
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-358,0);
+ref = dieresiscomb.narrow;
+}
+);
+width = 480;
+}
+);
+leftKerningGroup = uni0452;
+rightKerningGroup = uni0457;
+unicode = 1111;
+}

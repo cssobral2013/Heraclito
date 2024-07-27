@@ -1,0 +1,181 @@
+{
+glyphname = "iigrave-cy";
+layers = (
+{
+anchors = (
+{
+name = "#exit";
+position = "{986, 0}";
+},
+{
+name = top;
+position = "{864, 1518}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (405,599);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,598);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1004,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (80,447);
+type = Stem;
+},
+{
+place = (666,434);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "ii-cy";
+},
+{
+alignment = -1;
+pos = (-604,0);
+ref = gravecomb;
+}
+);
+width = 1186;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{892, 0}";
+},
+{
+name = top;
+position = "{828, 1439}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (617,378);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,376);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (995,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-179,242);
+type = Stem;
+},
+{
+place = (445,236);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "ii-cy";
+},
+{
+alignment = -1;
+pos = (-618,0);
+ref = gravecomb;
+}
+);
+width = 1157;
+},
+{
+anchors = (
+{
+name = "#exit";
+position = "{814, 0}";
+},
+{
+name = top;
+position = "{798, 1372}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (864,124);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,125);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (988,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (207,60);
+type = Stem;
+},
+{
+place = (873,60);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "ii-cy";
+},
+{
+alignment = -1;
+pos = (-630,0);
+ref = gravecomb;
+}
+);
+width = 1133;
+}
+);
+leftKerningGroup = uni0432_2;
+unicode = 1117;
+}

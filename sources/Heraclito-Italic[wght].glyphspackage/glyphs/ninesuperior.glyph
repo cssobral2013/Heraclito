@@ -1,0 +1,39 @@
+{
+glyphname = ninesuperior;
+layers = (
+{
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (163,600);
+ref = nine.dnom;
+}
+);
+width = 944;
+},
+{
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (160,602);
+ref = nine.dnom;
+}
+);
+width = 900;
+},
+{
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (160,604);
+ref = nine.dnom;
+}
+);
+width = 862;
+}
+);
+unicode = 8313;
+}

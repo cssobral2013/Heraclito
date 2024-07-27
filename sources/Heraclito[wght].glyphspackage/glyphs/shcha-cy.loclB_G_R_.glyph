@@ -1,0 +1,58 @@
+{
+glyphname = "shcha-cy.loclBGR";
+layers = (
+{
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+shapes = (
+{
+alignment = -1;
+ref = "sha-cy.loclBGR";
+},
+{
+alignment = -1;
+pos = (538,0);
+ref = "descender-cy";
+}
+);
+width = 1806;
+},
+{
+anchors = (
+{
+name = _bottomright;
+position = "{1565, 0}";
+}
+);
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+shapes = (
+{
+alignment = -1;
+ref = "sha-cy.loclBGR";
+},
+{
+alignment = -1;
+pos = (552,0);
+ref = "descender-cy";
+}
+);
+width = 1747;
+},
+{
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+shapes = (
+{
+alignment = -1;
+ref = "sha-cy.loclBGR";
+},
+{
+alignment = -1;
+pos = (563,0);
+ref = "descender-cy";
+}
+);
+width = 1698;
+}
+);
+leftKerningGroup = uni0438.loclBGR;
+rightKerningGroup = uni0434;
+}

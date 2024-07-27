@@ -1,0 +1,188 @@
+{
+glyphname = "ie-cy";
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+position = "{163, 372}";
+},
+{
+name = bottom;
+position = "{418, 0}";
+},
+{
+name = ogonek;
+position = "{775, 0}";
+},
+{
+name = top;
+position = "{683, 1004}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-32,358);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (754,282);
+type = Stem;
+},
+{
+place = (48,424);
+type = Stem;
+},
+{
+place = (657,370);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,164);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = e;
+}
+);
+width = 1052;
+},
+{
+anchors = (
+{
+name = "#entry";
+position = "{158, 427}";
+},
+{
+name = bottom;
+position = "{435, 0}";
+},
+{
+name = ogonek;
+position = "{699, 0}";
+},
+{
+name = top;
+position = "{686, 995}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-24,198);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (840,181);
+type = Stem;
+},
+{
+place = (96,238);
+type = Stem;
+},
+{
+place = (790,208);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,158);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = e;
+}
+);
+width = 1054;
+},
+{
+anchors = (
+{
+name = "#entry";
+position = "{156, 474}";
+},
+{
+name = bottom;
+position = "{451, 0}";
+},
+{
+name = ogonek;
+position = "{636, 0}";
+},
+{
+name = top;
+position = "{691, 988}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (942,64);
+type = Stem;
+},
+{
+place = (138,57);
+type = Stem;
+},
+{
+place = (910,60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,58);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (3,0);
+ref = e;
+}
+);
+width = 1056;
+}
+);
+leftKerningGroup = uni0435_2;
+rightKerningGroup = uni0435;
+unicode = 1077;
+}

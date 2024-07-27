@@ -1,0 +1,62 @@
+{
+glyphname = "Gje-cy";
+layers = (
+{
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (-4,0);
+ref = acutecomb.case;
+}
+);
+width = 1180;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{421, 0}";
+},
+{
+name = top;
+position = "{613, 1850}";
+}
+);
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (14,0);
+ref = acutecomb.case;
+}
+);
+width = 1143;
+},
+{
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (29,0);
+ref = acutecomb.case;
+}
+);
+width = 1112;
+}
+);
+rightKerningGroup = uni0403;
+unicode = 1027;
+}

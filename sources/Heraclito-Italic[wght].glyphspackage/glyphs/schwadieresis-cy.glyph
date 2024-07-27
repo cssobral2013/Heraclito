@@ -1,0 +1,74 @@
+{
+glyphname = "schwadieresis-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{744, 1420}";
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = schwa;
+},
+{
+alignment = -1;
+pos = (-692,0);
+ref = dieresiscomb;
+}
+);
+width = 1052;
+},
+{
+anchors = (
+{
+name = top;
+position = "{720, 1382}";
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = schwa;
+},
+{
+alignment = -1;
+pos = (-706,0);
+ref = dieresiscomb;
+}
+);
+width = 1054;
+},
+{
+anchors = (
+{
+name = top;
+position = "{700, 1350}";
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = schwa;
+},
+{
+alignment = -1;
+pos = (-719,-1);
+ref = dieresiscomb;
+}
+);
+width = 1056;
+}
+);
+leftKerningGroup = uni0430_2;
+rightKerningGroup = uni043E;
+unicode = 1243;
+}

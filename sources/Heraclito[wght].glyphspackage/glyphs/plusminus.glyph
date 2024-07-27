@@ -2,7 +2,7 @@
 glyphname = plusminus;
 layers = (
 {
-layerId = "1D36A54A-8B27-4198-8587-18798B6117BD";
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
 shapes = (
 {
 closed = 1;
@@ -47,7 +47,7 @@ nodes = (
 width = 1180;
 },
 {
-layerId = "7090A729-84C3-4F19-80F3-27A7A33ACD44";
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
 shapes = (
 {
 closed = 1;
@@ -92,7 +92,7 @@ nodes = (
 width = 1147;
 },
 {
-layerId = "68EEC51A-74C6-41A2-8128-A2F24340309E";
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
 shapes = (
 {
 closed = 1;

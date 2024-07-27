@@ -2,28 +2,59 @@
 glyphname = ccedillaacute;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-27,359);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (666,368);
+type = Stem;
+},
+{
+place = (51,445);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (-2,0);
 ref = c;
 },
 {
 alignment = -1;
-pos = (-54,0);
+pos = (-652,0);
 ref = cedillacomb;
 },
 {
 alignment = -1;
-pos = (-54,0);
+pos = (-652,0);
 ref = acutecomb;
 }
 );
-width = 944;
+width = 948;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (-22,199);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (817,203);
+type = Stem;
+},
+{
+place = (97,237);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -31,12 +62,12 @@ ref = c;
 },
 {
 alignment = -1;
-pos = (-34,0);
+pos = (-634,0);
 ref = cedillacomb;
 },
 {
 alignment = -1;
-pos = (-44,0);
+pos = (-644,0);
 ref = acutecomb;
 }
 );
@@ -46,28 +77,43 @@ width = 978;
 anchors = (
 {
 name = top;
-position = "{785, 1347}";
+position = "{782, 1347}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (944,64);
+type = Stem;
+},
+{
+place = (137,62);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (3,0);
 ref = c;
 },
 {
 alignment = -1;
-pos = (-15,0);
+pos = (-618,0);
 ref = cedillacomb;
 },
 {
 alignment = -1;
-pos = (-35,0);
+pos = (-638,0);
 ref = acutecomb;
 }
 );
-width = 1010;
+width = 1004;
 }
 );
 leftKerningGroup = c;

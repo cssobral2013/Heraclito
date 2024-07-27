@@ -2,23 +2,54 @@
 glyphname = tdotbelow;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-32,354);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (678,326);
+type = Stem;
+},
+{
+place = (258,439);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (-2,0);
 ref = t;
 },
 {
 alignment = -1;
-pos = (-138,0);
+pos = (-736,0);
 ref = dotbelowcomb;
 }
 );
-width = 868;
+width = 872;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (-24,197);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (815,181);
+type = Stem;
+},
+{
+place = (332,233);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +57,7 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (-131,0);
+pos = (-731,0);
 ref = dotbelowcomb;
 }
 );
@@ -36,35 +67,50 @@ width = 833;
 anchors = (
 {
 name = bottom;
-position = "{344, 0}";
+position = "{342, 0}";
 },
 {
 name = center;
-position = "{410, 494}";
+position = "{408, 494}";
 },
 {
 name = top;
-position = "{588, 1248}";
+position = "{586, 1248}";
 },
 {
 name = topright;
-position = "{560, 988}";
+position = "{558, 988}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (930,58);
+type = Stem;
+},
+{
+place = (395,59);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
 ref = t;
 },
 {
 alignment = -1;
-pos = (-124,0);
+pos = (-726,0);
 ref = dotbelowcomb;
 }
 );
-width = 804;
+width = 800;
 }
 );
 leftKerningGroup = t2;

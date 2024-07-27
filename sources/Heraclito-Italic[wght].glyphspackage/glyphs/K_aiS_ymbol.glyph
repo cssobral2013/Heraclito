@@ -1,0 +1,96 @@
+{
+glyphname = KaiSymbol;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,324);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1002,424);
+type = Stem;
+},
+{
+place = (150,481);
+type = Stem;
+},
+{
+place = (280,447);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+ref = "Kahook-cy";
+}
+);
+width = 1458;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,182);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1198,228);
+type = Stem;
+},
+{
+place = (-150,255);
+type = Stem;
+},
+{
+place = (-55,239);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+ref = "Kahook-cy";
+}
+);
+width = 1371;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,62);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1364,62);
+type = Stem;
+},
+{
+place = (218,64);
+type = Stem;
+},
+{
+place = (283,64);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+ref = "Kahook-cy";
+}
+);
+width = 1298;
+}
+);
+unicode = 975;
+}

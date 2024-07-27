@@ -1,0 +1,58 @@
+{
+glyphname = "palochka-cy";
+layers = (
+{
+layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+shapes = (
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 584;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{258, 0}";
+},
+{
+name = center;
+position = "{263, 818}";
+},
+{
+name = top;
+position = "{258, 1455}";
+},
+{
+name = topright;
+position = "{458, 995}";
+}
+);
+layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = l;
+}
+);
+width = 517;
+},
+{
+layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = l;
+}
+);
+width = 460;
+}
+);
+leftKerningGroup = uni0456_2;
+rightKerningGroup = uni0456;
+unicode = 1231;
+}

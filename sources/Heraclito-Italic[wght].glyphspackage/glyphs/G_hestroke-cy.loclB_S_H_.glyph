@@ -1,0 +1,101 @@
+{
+glyphname = "Ghestroke-cy.loclBSH";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (490,386);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1022,404);
+type = Stem;
+},
+{
+place = (80,479);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+ref = F;
+}
+);
+width = 1162;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (601,210);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1207,219);
+type = Stem;
+},
+{
+place = (154,254);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+ref = F;
+}
+);
+width = 1151;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (694,62);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1364,62);
+type = Stem;
+},
+{
+place = (216,64);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+ref = F;
+}
+);
+width = 1142;
+}
+);
+}

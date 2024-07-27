@@ -2,31 +2,121 @@
 glyphname = Phi;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (125,348);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (953,348);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1446,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (112,475);
+type = Stem;
+},
+{
+place = (956,470);
+type = Stem;
+},
+{
+place = (1403,477);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-ref = Efcyr;
+ref = "Ef-cy";
 }
 );
 width = 1876;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (123,202);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1101,202);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1462,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-479,262);
+type = Stem;
+},
+{
+place = (380,259);
+type = Stem;
+},
+{
+place = (835,263);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
-ref = Efcyr;
+ref = "Ef-cy";
 }
 );
 width = 1750;
 },
 {
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (129,62);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1235,62);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (1476,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (175,64);
+type = Stem;
+},
+{
+place = (1053,64);
+type = Stem;
+},
+{
+place = (1526,64);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-ref = Efcyr;
+ref = "Ef-cy";
 }
 );
 width = 1644;

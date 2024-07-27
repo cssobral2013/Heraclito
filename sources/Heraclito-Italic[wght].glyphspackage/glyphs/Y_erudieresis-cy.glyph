@@ -1,0 +1,202 @@
+{
+glyphname = "Yerudieresis-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{1542, 0}";
+},
+{
+name = ogonek;
+position = "{1800, 0}";
+},
+{
+name = top;
+position = "{1366, 1842}";
+},
+{
+name = topleft;
+position = "{1666, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (1426,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-39,704);
+type = Stem;
+},
+{
+place = (803,496);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (1678,502);
+type = Stem;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1331,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-70,0);
+ref = dieresiscomb.case;
+}
+);
+width = 2022;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1418, 0}";
+},
+{
+name = ogonek;
+position = "{1554, 0}";
+},
+{
+name = top;
+position = "{1267, 1802}";
+},
+{
+name = topleft;
+position = "{1554, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (1426,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-355,566);
+type = Stem;
+},
+{
+place = (539,262);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (1667,265);
+type = Stem;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1255,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-158,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1844;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1314, 0}";
+},
+{
+name = ogonek;
+position = "{1346, 0}";
+},
+{
+name = top;
+position = "{1185, 1768}";
+},
+{
+name = topleft;
+position = "{1460, 1426}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (1426,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (94,434);
+type = Stem;
+},
+{
+place = (1029,66);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (1660,64);
+type = Stem;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1192,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-231,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1694;
+}
+);
+rightKerningGroup = uni0406;
+unicode = 1272;
+}

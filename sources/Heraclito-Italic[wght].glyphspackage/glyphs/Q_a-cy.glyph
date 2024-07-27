@@ -1,0 +1,84 @@
+{
+glyphname = "Qa-cy";
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{869, 714}";
+},
+{
+name = ogonek;
+position = "{1037, 0}";
+},
+{
+name = top;
+position = "{1057, 1426}";
+},
+{
+name = topleft;
+position = "{352, 1426}";
+},
+{
+name = topright;
+position = "{1637, 1426}";
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Q;
+}
+);
+width = 1622;
+},
+{
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = Q;
+}
+);
+width = 1631;
+},
+{
+anchors = (
+{
+name = center;
+position = "{880, 714}";
+},
+{
+name = ogonek;
+position = "{915, 0}";
+},
+{
+name = top;
+position = "{1068, 1426}";
+},
+{
+name = topleft;
+position = "{282, 1426}";
+},
+{
+name = topright;
+position = "{1619, 1426}";
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+ref = Q;
+}
+);
+width = 1638;
+}
+);
+leftKerningGroup = uni0404_2;
+rightKerningGroup = uni041E;
+unicode = 1306;
+}

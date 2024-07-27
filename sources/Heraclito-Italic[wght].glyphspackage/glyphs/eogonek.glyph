@@ -2,23 +2,84 @@
 glyphname = eogonek;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-32,358);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (754,282);
+type = Stem;
+},
+{
+place = (46,424);
+type = Stem;
+},
+{
+place = (655,370);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,164);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (304,0);
+pos = (-295,0);
 ref = ogonekcomb;
 }
 );
-width = 1050;
+width = 1052;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+hints = (
+{
+horizontal = 1;
+place = (-24,198);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (840,181);
+type = Stem;
+},
+{
+place = (95,238);
+type = Stem;
+},
+{
+place = (789,208);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,158);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +87,7 @@ ref = e;
 },
 {
 alignment = -1;
-pos = (213,0);
+pos = (-387,0);
 ref = ogonekcomb;
 }
 );
@@ -36,31 +97,62 @@ width = 1054;
 anchors = (
 {
 name = "#entry";
-position = "{154, 474}";
+position = "{152, 474}";
 },
 {
 name = bottom;
-position = "{449, 0}";
+position = "{447, 0}";
 },
 {
 name = top;
-position = "{689, 988}";
+position = "{687, 988}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (942,64);
+type = Stem;
+},
+{
+place = (136,57);
+type = Stem;
+},
+{
+place = (908,60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,58);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (1,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (168,0);
+pos = (-434,0);
 ref = ogonekcomb;
 }
 );
-width = 1061;
+width = 1056;
 }
 );
 leftKerningGroup = c;

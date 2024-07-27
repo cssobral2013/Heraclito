@@ -2,7 +2,7 @@
 glyphname = Nj;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
@@ -11,18 +11,18 @@ ref = N;
 {
 alignment = -1;
 pos = (1492,0);
-ref = dotlessj;
+ref = jdotless;
 },
 {
 alignment = -1;
-pos = (1520,0);
+pos = (1239,0);
 ref = dotaccentcomb;
 }
 );
 width = 2096;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -30,12 +30,12 @@ ref = N;
 },
 {
 alignment = -1;
-pos = (1504,0);
-ref = dotlessj;
+pos = (1487,0);
+ref = jdotless;
 },
 {
 alignment = -1;
-pos = (1538,0);
+pos = (1303,0);
 ref = dotaccentcomb;
 }
 );
@@ -52,7 +52,7 @@ name = top;
 position = "{1980, 1370}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
@@ -61,11 +61,11 @@ ref = N;
 {
 alignment = -1;
 pos = (1514,0);
-ref = dotlessj;
+ref = jdotless;
 },
 {
 alignment = -1;
-pos = (1554,0);
+pos = (1359,0);
 ref = dotaccentcomb;
 }
 );

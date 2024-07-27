@@ -2,7 +2,84 @@
 glyphname = etilde;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+hints = (
+{
+horizontal = 1;
+place = (-32,358);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (754,282);
+type = Stem;
+},
+{
+place = (46,424);
+type = Stem;
+},
+{
+place = (655,370);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,164);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (436,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (-652,0);
+ref = tildecomb;
+}
+);
+width = 1052;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-24,198);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (840,181);
+type = Stem;
+},
+{
+place = (94,238);
+type = Stem;
+},
+{
+place = (788,208);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,158);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (456,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -11,60 +88,76 @@ ref = e;
 },
 {
 alignment = -1;
-pos = (-53,0);
+pos = (-647,0);
 ref = tildecomb;
 }
 );
-width = 1050;
-},
-{
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
-shapes = (
-{
-alignment = -1;
-ref = e;
-},
-{
-alignment = -1;
-pos = (-46,0);
-ref = tildecomb;
-}
-);
-width = 1055;
+width = 1054;
 },
 {
 anchors = (
 {
 name = "#entry";
-position = "{154, 474}";
+position = "{152, 474}";
 },
 {
 name = bottom;
-position = "{449, 0}";
+position = "{447, 0}";
 },
 {
 name = ogonek;
-position = "{634, 0}";
+position = "{632, 0}";
 },
 {
 name = top;
-position = "{784, 1350}";
+position = "{782, 1350}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+hints = (
+{
+horizontal = 1;
+place = (-18,64);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (942,64);
+type = Stem;
+},
+{
+place = (136,57);
+type = Stem;
+},
+{
+place = (908,60);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,58);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (474,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (2,0);
+pos = (1,0);
 ref = e;
 },
 {
 alignment = -1;
-pos = (-39,0);
+pos = (-641,0);
 ref = tildecomb;
 }
 );
-width = 1061;
+width = 1056;
 }
 );
 leftKerningGroup = c;

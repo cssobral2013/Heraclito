@@ -2,23 +2,22 @@
 glyphname = abreve;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = a;
 },
 {
 alignment = -1;
-pos = (-65,0);
+pos = (-666,0);
 ref = brevecomb;
 }
 );
-width = 1052;
+width = 1050;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +25,7 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (-68,0);
+pos = (-668,0);
 ref = brevecomb;
 }
 );
@@ -36,31 +35,30 @@ width = 1040;
 anchors = (
 {
 name = bottom;
-position = "{396, 0}";
+position = "{397, 0}";
 },
 {
 name = ogonek;
-position = "{720, 0}";
+position = "{721, 0}";
 },
 {
 name = top;
-position = "{759, 1366}";
+position = "{760, 1366}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
 ref = a;
 },
 {
 alignment = -1;
-pos = (-71,0);
+pos = (-670,0);
 ref = brevecomb;
 }
 );
-width = 1030;
+width = 1032;
 }
 );
 leftKerningGroup = a2;

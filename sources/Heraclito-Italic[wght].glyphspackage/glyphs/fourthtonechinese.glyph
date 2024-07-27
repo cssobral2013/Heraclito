@@ -1,0 +1,49 @@
+{
+glyphname = fourthtonechinese;
+layers = (
+{
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+shapes = (
+{
+alignment = -1;
+pos = (-756,0);
+ref = gravecomb;
+}
+);
+width = 708;
+},
+{
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+shapes = (
+{
+alignment = -1;
+pos = (-789,0);
+ref = gravecomb;
+}
+);
+width = 615;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{514, 988}";
+},
+{
+name = top;
+position = "{612, 1372}";
+}
+);
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+shapes = (
+{
+alignment = -1;
+pos = (-816,0);
+ref = gravecomb;
+}
+);
+width = 536;
+}
+);
+unicode = 715;
+}

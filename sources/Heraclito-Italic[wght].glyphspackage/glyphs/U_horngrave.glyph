@@ -2,78 +2,81 @@
 glyphname = Uhorngrave;
 layers = (
 {
-layerId = "62B4BE92-0906-48DF-A4C7-D0FD968EC5A4";
+layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
 shapes = (
 {
 alignment = -1;
+pos = (1,0);
 ref = U;
 },
 {
 alignment = -1;
-pos = (943,422);
+pos = (344,422);
 ref = horncomb;
 },
 {
 alignment = -1;
-pos = (239,0);
+pos = (-360,0);
 ref = gravecomb.case;
 }
 );
-width = 1814;
+width = 1816;
 },
 {
-layerId = "E0982C51-5F76-4DD4-A202-02B8DD537C9C";
+layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
 shapes = (
 {
 alignment = -1;
+pos = (2,0);
 ref = U;
 },
 {
 alignment = -1;
-pos = (916,431);
+pos = (318,431);
 ref = horncomb;
 },
 {
 alignment = -1;
-pos = (244,0);
+pos = (-354,0);
 ref = gravecomb.case;
 }
 );
-width = 1653;
+width = 1656;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{604, 0}";
+position = "{605, 0}";
 },
 {
 name = ogonek;
-position = "{818, 0}";
+position = "{819, 0}";
 },
 {
 name = top;
-position = "{1067, 1770}";
+position = "{1068, 1770}";
 }
 );
-layerId = "D3DCAB54-5339-4DDD-994A-C2C207BB2BE4";
+layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
 shapes = (
 {
 alignment = -1;
+pos = (1,0);
 ref = U;
 },
 {
 alignment = -1;
-pos = (893,438);
+pos = (294,438);
 ref = horncomb;
 },
 {
 alignment = -1;
-pos = (249,0);
+pos = (-350,0);
 ref = gravecomb.case;
 }
 );
-width = 1518;
+width = 1520;
 }
 );
 leftKerningGroup = U2;
