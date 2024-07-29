@@ -2,100 +2,31 @@
 glyphname = Pi;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1022,404);
-type = Stem;
-},
-{
-place = (82,495);
-type = Stem;
-},
-{
-place = (898,495);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
-ref = "Pe-cy";
+ref = uni041F;
 }
 );
 width = 1492;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1207,219);
-type = Stem;
-},
-{
-place = (-341,261);
-type = Stem;
-},
-{
-place = (569,261);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
-ref = "Pe-cy";
+ref = uni041F;
 }
 );
 width = 1493;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{1143, 0}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1364,62);
-type = Stem;
-},
-{
-place = (218,64);
-type = Stem;
-},
-{
-place = (1208,64);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
-ref = "Pe-cy";
+ref = uni041F;
 }
 );
 width = 1494;

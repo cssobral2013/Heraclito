@@ -2,27 +2,7 @@
 glyphname = sacute;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (-32,314);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (700,334);
-type = Stem;
-},
-{
-place = (115,434);
-type = Stem;
-},
-{
-place = (435,433);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -37,27 +17,7 @@ ref = acutecomb;
 width = 956;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (-24,196);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (827,194);
-type = Stem;
-},
-{
-place = (165,240);
-type = Stem;
-},
-{
-place = (538,243);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -72,37 +32,7 @@ ref = acutecomb;
 width = 921;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{314, 0}";
-},
-{
-name = top;
-position = "{667, 1347}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (-18,64);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (944,64);
-type = Stem;
-},
-{
-place = (219,60);
-type = Stem;
-},
-{
-place = (644,62);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;

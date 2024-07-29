@@ -2,31 +2,7 @@
 glyphname = lcaron;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1500,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1468,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (198,444);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -35,37 +11,13 @@ ref = l;
 {
 alignment = -1;
 pos = (-648,0);
-ref = caroncomb.alt;
+ref = uni030C.alt;
 }
 );
 width = 664;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1488,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1465,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (274,237);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -74,51 +26,13 @@ ref = l;
 {
 alignment = -1;
 pos = (-737,0);
-ref = caroncomb.alt;
+ref = uni030C.alt;
 }
 );
 width = 564;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{108, 0}";
-},
-{
-name = center;
-position = "{325, 818}";
-},
-{
-name = top;
-position = "{493, 1446}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1478,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1462,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (339,61);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
@@ -127,7 +41,7 @@ ref = l;
 {
 alignment = -1;
 pos = (-812,0);
-ref = caroncomb.alt;
+ref = uni030C.alt;
 }
 );
 width = 480;

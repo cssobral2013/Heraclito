@@ -2,86 +2,23 @@
 glyphname = dcaron;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (-32,370);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (660,376);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (126,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1500,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (50,447);
-type = Stem;
-},
-{
-place = (800,444);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
+pos = (4,0);
 ref = d;
 },
 {
 alignment = -1;
-pos = (-46,0);
-ref = caroncomb.alt;
+pos = (-42,0);
+ref = uni030C.alt;
 }
 );
-width = 1266;
+width = 1274;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (-24,204);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (814,207);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (131,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1488,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (98,238);
-type = Stem;
-},
-{
-place = (930,237);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -90,71 +27,26 @@ ref = d;
 {
 alignment = -1;
 pos = (-81,0);
-ref = caroncomb.alt;
+ref = uni030C.alt;
 }
 );
 width = 1200;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{481, 0}";
-},
-{
-name = center;
-position = "{577, 494}";
-},
-{
-name = top;
-position = "{861, 1446}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (-18,64);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (944,64);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (135,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1478,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (139,62);
-type = Stem;
-},
-{
-place = (1041,61);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
+pos = (-2,0);
 ref = d;
 },
 {
 alignment = -1;
-pos = (-110,0);
-ref = caroncomb.alt;
+pos = (-112,0);
+ref = uni030C.alt;
 }
 );
-width = 1144;
+width = 1140;
 }
 );
 leftKerningGroup = d2;

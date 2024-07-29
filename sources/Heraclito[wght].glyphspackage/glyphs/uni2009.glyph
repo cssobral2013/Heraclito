@@ -1,0 +1,18 @@
+{
+glyphname = uni2009;
+layers = (
+{
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
+width = 252;
+},
+{
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
+width = 254;
+},
+{
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
+width = 256;
+}
+);
+unicode = 8201;
+}

@@ -2,17 +2,7 @@
 glyphname = hookabovecomb;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{1333, 1004}";
-},
-{
-name = top;
-position = "{1495, 1626}";
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 closed = 1;
@@ -36,9 +26,9 @@ nodes = (
 (1132,1320,c),
 (1174,1571,l),
 (1205,1583,o),
-(1252,1596,o),
+(1251,1596,o),
 (1307,1607,cs),
-(1362,1618,o),
+(1363,1618,o),
 (1420,1626,o),
 (1477,1626,cs),
 (1534,1626,o),
@@ -63,17 +53,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{1331, 995}";
-},
-{
-name = top;
-position = "{1472, 1539}";
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 closed = 1;
@@ -124,17 +104,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{1330, 988}";
-},
-{
-name = top;
-position = "{1453, 1466}";
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 closed = 1;

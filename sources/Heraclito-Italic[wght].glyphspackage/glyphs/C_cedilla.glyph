@@ -2,54 +2,23 @@
 glyphname = Ccedilla;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (-32,396);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1048,410);
-type = Stem;
-},
-{
-place = (126,492);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
+pos = (1,0);
 ref = C;
 },
 {
 alignment = -1;
-pos = (-414,0);
-ref = cedillacomb;
+pos = (-413,0);
+ref = uni0327;
 }
 );
-width = 1364;
+width = 1366;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (-24,217);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1230,224);
-type = Stem;
-},
-{
-place = (162,260);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -58,47 +27,26 @@ ref = C;
 {
 alignment = -1;
 pos = (-404,0);
-ref = cedillacomb;
+ref = uni0327;
 }
 );
 width = 1368;
 },
 {
-anchors = (
-{
-name = top;
-position = "{1027, 1426}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (-18,66);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1384,66);
-type = Stem;
-},
-{
-place = (194,64);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
+pos = (-1,0);
 ref = C;
 },
 {
 alignment = -1;
-pos = (-395,0);
-ref = cedillacomb;
+pos = (-396,0);
+ref = uni0327;
 }
 );
-width = 1372;
+width = 1370;
 }
 );
 leftKerningGroup = C2;

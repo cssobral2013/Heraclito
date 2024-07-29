@@ -2,17 +2,7 @@
 glyphname = dotbelowcomb;
 layers = (
 {
-anchors = (
-{
-name = _bottom;
-position = "{1068, 0}";
-},
-{
-name = bottom;
-position = "{1068, 0}";
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 closed = 1;
@@ -21,7 +11,7 @@ nodes = (
 (813,-482,o),
 (776,-441,cs),
 (739,-400,o),
-(729,-341,o),
+(729,-342,o),
 (748,-262,cs),
 (779,-127,o),
 (889,-72,o),
@@ -44,17 +34,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{1069, 0}";
-},
-{
-name = bottom;
-position = "{1069, 0}";
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 closed = 1;
@@ -86,17 +66,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{1070, 0}";
-},
-{
-name = bottom;
-position = "{1070, 0}";
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 closed = 1;

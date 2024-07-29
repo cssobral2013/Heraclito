@@ -2,19 +2,13 @@
 glyphname = dieresistonos.narrow;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{598, 1004}";
-}
-);
-layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
 shapes = (
 {
 closed = 1;
 nodes = (
 (690,1110,l),
-(729,1258,o),
+(729,1259,o),
 (771,1409,o),
 (814,1570,c),
 (478,1560,l),
@@ -73,19 +67,13 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{570, 995}";
-}
-);
-layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
 shapes = (
 {
 closed = 1;
 nodes = (
 (616,1145,l),
-(657,1289,o),
+(657,1290,o),
 (699,1431,o),
 (743,1580,c),
 (549,1574,l),
@@ -144,13 +132,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{547, 988}";
-}
-);
-layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
 shapes = (
 {
 closed = 1;

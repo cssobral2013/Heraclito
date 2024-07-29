@@ -2,17 +2,7 @@
 glyphname = periodcentered.loclCAT;
 layers = (
 {
-anchors = (
-{
-name = _center;
-position = "{298, 722}";
-},
-{
-name = top;
-position = "{345, 894}";
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 closed = 1;
@@ -21,7 +11,7 @@ nodes = (
 (122,549,o),
 (85,590,cs),
 (48,631,o),
-(39,689,o),
+(39,688,o),
 (56,768,cs),
 (71,836,o),
 (105,883,o),
@@ -31,7 +21,7 @@ nodes = (
 (350,958,cs),
 (426,958,o),
 (481,934,o),
-(517,886,c),
+(517,886,cs),
 (552,837,o),
 (563,781,o),
 (548,717,cs),
@@ -47,17 +37,7 @@ nodes = (
 width = 478;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{312, 718}";
-},
-{
-name = top;
-position = "{336, 800}";
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 closed = 1;
@@ -92,17 +72,7 @@ nodes = (
 width = 508;
 },
 {
-anchors = (
-{
-name = _center;
-position = "{324, 714}";
-},
-{
-name = top;
-position = "{328, 720}";
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 closed = 1;

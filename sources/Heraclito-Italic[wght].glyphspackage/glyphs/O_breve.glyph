@@ -2,7 +2,7 @@
 glyphname = Obreve;
 layers = (
 {
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -11,13 +11,13 @@ ref = O;
 {
 alignment = -1;
 pos = (-276,0);
-ref = brevecomb.case;
+ref = uni0306.case;
 }
 );
 width = 1622;
 },
 {
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -26,51 +26,26 @@ ref = O;
 {
 alignment = -1;
 pos = (-269,0);
-ref = brevecomb.case;
+ref = uni0306.case;
 }
 );
 width = 1631;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{692, 0}";
-},
-{
-name = center;
-position = "{879, 714}";
-},
-{
-name = ogonek;
-position = "{914, 0}";
-},
-{
-name = top;
-position = "{1165, 1804}";
-},
-{
-name = topleft;
-position = "{281, 1426}";
-},
-{
-name = topright;
-position = "{1618, 1426}";
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
+pos = (-1,0);
 ref = O;
 },
 {
 alignment = -1;
-pos = (-264,0);
-ref = brevecomb.case;
+pos = (-265,0);
+ref = uni0306.case;
 }
 );
-width = 1638;
+width = 1636;
 }
 );
 leftKerningGroup = C2;

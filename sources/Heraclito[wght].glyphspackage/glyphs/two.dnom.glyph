@@ -2,7 +2,7 @@
 glyphname = two.dnom;
 layers = (
 {
-layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
 shapes = (
 {
 closed = 1;
@@ -20,7 +20,7 @@ nodes = (
 (776,823,o),
 (712,875,cs),
 (648,926,o),
-(554,954,o),
+(555,954,o),
 (430,954,cs),
 (358,954,o),
 (288,945,o),
@@ -51,7 +51,7 @@ nodes = (
 width = 872;
 },
 {
-layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
 shapes = (
 {
 closed = 1;
@@ -100,7 +100,7 @@ nodes = (
 width = 821;
 },
 {
-layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
 shapes = (
 {
 closed = 1;
@@ -130,7 +130,7 @@ nodes = (
 (180,848,o),
 (280,874,o),
 (372,874,cs),
-(532,874,o),
+(533,874,o),
 (600,807,o),
 (600,674,cs),
 (600,598,o),

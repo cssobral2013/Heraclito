@@ -2,23 +2,22 @@
 glyphname = Uhorn;
 layers = (
 {
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = U;
 },
 {
 alignment = -1;
-pos = (344,422);
-ref = horncomb;
+pos = (343,422);
+ref = uni031B;
 }
 );
-width = 1816;
+width = 1814;
 },
 {
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -28,40 +27,25 @@ ref = U;
 {
 alignment = -1;
 pos = (318,431);
-ref = horncomb;
+ref = uni031B;
 }
 );
 width = 1656;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{605, 0}";
-},
-{
-name = ogonek;
-position = "{819, 0}";
-},
-{
-name = top;
-position = "{980, 1426}";
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
-pos = (1,0);
 ref = U;
 },
 {
 alignment = -1;
-pos = (294,438);
-ref = horncomb;
+pos = (293,438);
+ref = uni031B;
 }
 );
-width = 1520;
+width = 1518;
 }
 );
 leftKerningGroup = U2;

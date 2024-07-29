@@ -2,29 +2,7 @@
 glyphname = u;
 layers = (
 {
-anchors = (
-{
-name = "#exit";
-position = "{1098, 0}";
-},
-{
-name = bottom;
-position = "{580, 0}";
-},
-{
-name = ogonek;
-position = "{1098, 0}";
-},
-{
-name = top;
-position = "{580, 1004}";
-},
-{
-name = topright;
-position = "{1150, 1004}";
-}
-);
-layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
 shapes = (
 {
 closed = 1;
@@ -61,9 +39,9 @@ nodes = (
 (60,1004,l),
 (60,546,l),
 (60,320,ls),
-(60,200,o),
-(89,114,o),
-(142,55,c),
+(60,199,o),
+(89,115,o),
+(142,55,cs),
 (194,-5,o),
 (271,-32,o),
 (364,-32,cs)
@@ -73,29 +51,7 @@ nodes = (
 width = 1168;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{1000, 0}";
-},
-{
-name = bottom;
-position = "{564, 0}";
-},
-{
-name = ogonek;
-position = "{1000, 0}";
-},
-{
-name = top;
-position = "{564, 995}";
-},
-{
-name = topright;
-position = "{1088, 995}";
-}
-);
-layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
 shapes = (
 {
 closed = 1;
@@ -144,29 +100,7 @@ nodes = (
 width = 1130;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{918, 0}";
-},
-{
-name = bottom;
-position = "{550, 0}";
-},
-{
-name = ogonek;
-position = "{918, 0}";
-},
-{
-name = top;
-position = "{550, 988}";
-},
-{
-name = topright;
-position = "{1036, 988}";
-}
-);
-layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
 shapes = (
 {
 closed = 1;

@@ -1,16 +1,15 @@
 {
 glyphname = one.tf;
-widthMetricsKey = "=1268";
 layers = (
 {
-layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
 shapes = (
 {
 closed = 1;
 nodes = (
 (131,806,l),
-(299,878,o),
-(457,951,o),
+(300,878,o),
+(456,951,o),
 (625,1023,c),
 (644,1426,l),
 (435,1334,o),
@@ -49,14 +48,14 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
 shapes = (
 {
 closed = 1;
 nodes = (
 (161,961,l),
-(321,1045,o),
-(473,1123,o),
+(322,1045,o),
+(472,1123,o),
 (633,1204,c),
 (642,1426,l),
 (458,1334,o),
@@ -95,7 +94,7 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
 shapes = (
 {
 closed = 1;

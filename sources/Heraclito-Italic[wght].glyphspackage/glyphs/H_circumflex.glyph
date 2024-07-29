@@ -2,34 +2,7 @@
 glyphname = Hcircumflex;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (512,404);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1426,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (337,495);
-type = Stem;
-},
-{
-place = (1163,495);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -38,40 +11,13 @@ ref = H;
 {
 alignment = -1;
 pos = (-337,0);
-ref = circumflexcomb.case;
+ref = uni0302.case;
 }
 );
 width = 1502;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (611,219);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1427,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (408,261);
-type = Stem;
-},
-{
-place = (1325,261);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -80,62 +26,13 @@ ref = H;
 {
 alignment = -1;
 pos = (-336,0);
-ref = circumflexcomb.case;
+ref = uni0302.case;
 }
 );
 width = 1500;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{1147, 0}";
-},
-{
-name = bottom;
-position = "{620, 0}";
-},
-{
-name = center;
-position = "{808, 714}";
-},
-{
-name = top;
-position = "{1113, 1888}";
-},
-{
-name = topleft;
-position = "{268, 1426}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (694,62);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1426,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (468,64);
-type = Stem;
-},
-{
-place = (1462,64);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
@@ -144,7 +41,7 @@ ref = H;
 {
 alignment = -1;
 pos = (-335,0);
-ref = circumflexcomb.case;
+ref = uni0302.case;
 }
 );
 width = 1498;

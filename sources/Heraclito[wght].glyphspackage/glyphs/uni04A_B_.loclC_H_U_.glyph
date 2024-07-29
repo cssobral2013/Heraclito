@@ -1,0 +1,51 @@
+{
+glyphname = uni04AB.loclCHU;
+layers = (
+{
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (-52,0);
+ref = uni0327;
+}
+);
+width = 948;
+},
+{
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (-34,0);
+ref = uni0327;
+}
+);
+width = 978;
+},
+{
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (-18,0);
+ref = uni0327;
+}
+);
+width = 1004;
+}
+);
+leftKerningGroup = uni0435_2;
+}

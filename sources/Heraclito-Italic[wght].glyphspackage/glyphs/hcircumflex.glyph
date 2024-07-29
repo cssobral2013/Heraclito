@@ -2,40 +2,7 @@
 glyphname = hcircumflex;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (636,400);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1500,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1468,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (198,445);
-type = Stem;
-},
-{
-place = (664,484);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -44,46 +11,13 @@ ref = h;
 {
 alignment = -1;
 pos = (-534,462);
-ref = circumflexcomb;
+ref = uni0302;
 }
 );
 width = 1168;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (803,218);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1488,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1465,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (275,236);
-type = Stem;
-},
-{
-place = (810,254);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -92,64 +26,13 @@ ref = h;
 {
 alignment = -1;
 pos = (-535,460);
-ref = circumflexcomb;
+ref = uni0302;
 }
 );
 width = 1152;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{827, 0}";
-},
-{
-name = bottom;
-position = "{454, 0}";
-},
-{
-name = center;
-position = "{669, 818}";
-},
-{
-name = top;
-position = "{925, 1948}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (944,64);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1478,-20);
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-place = (1462,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (341,60);
-type = Stem;
-},
-{
-place = (933,60);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
@@ -158,7 +41,7 @@ ref = h;
 {
 alignment = -1;
 pos = (-536,458);
-ref = circumflexcomb;
+ref = uni0302;
 }
 );
 width = 1138;

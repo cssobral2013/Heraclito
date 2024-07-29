@@ -2,27 +2,17 @@
 glyphname = gravecomb.case;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{600, 1426}";
-},
-{
-name = top;
-position = "{600, 1920}";
-}
-);
-layerId = "33233A5A-37BF-4318-8FBD-C207E8A0D0D5";
+layerId = "59107719-3C4E-47A6-814F-E6C1AF0696EE";
 shapes = (
 {
 closed = 1;
 nodes = (
 (844,1532,l),
-(768,1668,o),
+(768,1669,o),
 (696,1797,o),
 (620,1934,c),
 (176,1924,l),
-(301,1784,o),
+(301,1783,o),
 (415,1657,o),
 (528,1528,c)
 );
@@ -31,17 +21,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{600, 1426}";
-},
-{
-name = top;
-position = "{599, 1839}";
-}
-);
-layerId = "DDE9F572-ABA5-4A0A-A4FB-BFEA0CC6579C";
+layerId = "154AD331-AB6C-4DF7-8377-5EAD1D513505";
 shapes = (
 {
 closed = 1;
@@ -51,7 +31,7 @@ nodes = (
 (601,1812,o),
 (513,1937,c),
 (263,1933,l),
-(379,1804,o),
+(380,1804,o),
 (484,1683,o),
 (592,1562,c)
 );
@@ -60,17 +40,7 @@ nodes = (
 width = 1200;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{600, 1426}";
-},
-{
-name = top;
-position = "{598, 1770}";
-}
-);
-layerId = "5D7E25E3-B3FF-498B-986D-FDCC95DA2522";
+layerId = "FA691644-D190-44BA-8874-3018883EB52A";
 shapes = (
 {
 closed = 1;

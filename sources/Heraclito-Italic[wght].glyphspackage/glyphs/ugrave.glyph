@@ -2,30 +2,7 @@
 glyphname = ugrave;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (-32,390);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (142,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1016,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (71,462);
-type = Stem;
-}
-);
-layerId = "56A8602E-BDC2-46DE-85D6-EBC995AB5C7F";
+layerId = "AFF82BBF-FC41-4F44-8FB2-1B474D793435";
 shapes = (
 {
 alignment = -1;
@@ -40,30 +17,7 @@ ref = gravecomb;
 width = 1168;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (-24,213);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (160,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (1003,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (138,245);
-type = Stem;
-}
-);
-layerId = "7D741856-296A-45BF-88B8-057E37E60DB7";
+layerId = "846F9768-90E9-4F6E-87A4-D262F6DA6C19";
 shapes = (
 {
 alignment = -1;
@@ -78,52 +32,7 @@ ref = gravecomb;
 width = 1130;
 },
 {
-anchors = (
-{
-name = "#exit";
-position = "{789, 0}";
-},
-{
-name = bottom;
-position = "{421, 0}";
-},
-{
-name = ogonek;
-position = "{789, 0}";
-},
-{
-name = top;
-position = "{779, 1372}";
-},
-{
-name = topright;
-position = "{1167, 988}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (-18,64);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (176,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (992,-20);
-target = down;
-type = TopGhost;
-},
-{
-place = (194,61);
-type = Stem;
-}
-);
-layerId = "355BC9C9-DFF3-4FFB-B20D-156268081B81";
+layerId = "3B700FF8-47B9-4100-B03E-59DC0E1692C9";
 shapes = (
 {
 alignment = -1;
