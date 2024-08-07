@@ -1701,7 +1701,7 @@ tag = onum;
 fontMaster = (
 {
 axesValues = (
-100
+144
 );
 customParameters = (
 {
@@ -1790,7 +1790,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "92B4EA3D-FB5D-4A4F-93D4-532A379F7211";
+id = "40CDE73F-57A4-4695-A0C8-7244E9D52202";
 metricValues = (
 {
 pos = 1810;
@@ -1902,7 +1902,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "E0D3637C-DFAE-46FE-ABBC-43C2FC0937C6";
+id = "FC81129E-CBCD-4201-8026-CD58C840939D";
 metricValues = (
 {
 pos = 1810;
@@ -2014,7 +2014,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "7B7025DB-32D1-45E9-B8AD-2A1739A26F17";
+id = "066FA146-1B0F-4CB2-BC80-6E1AAE3525A6";
 metricValues = (
 {
 pos = 1810;
@@ -2037,14 +2037,6 @@ name = Black;
 }
 );
 instances = (
-{
-axesValues = (
-100
-);
-interpolationWeight = 100;
-name = Thin;
-weightClass = Thin;
-},
 {
 axesValues = (
 200
@@ -2110,7 +2102,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"7B7025DB-32D1-45E9-B8AD-2A1739A26F17" = {
+"066FA146-1B0F-4CB2-BC80-6E1AAE3525A6" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -160;
@@ -16257,7 +16249,7 @@ upsilondieresistonos = -20;
 upsilontonos = -20;
 };
 };
-"92B4EA3D-FB5D-4A4F-93D4-532A379F7211" = {
+"40CDE73F-57A4-4695-A0C8-7244E9D52202" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -180;
@@ -28238,7 +28230,7 @@ upsilondieresistonos = -15;
 upsilontonos = -15;
 };
 };
-"E0D3637C-DFAE-46FE-ABBC-43C2FC0937C6" = {
+"FC81129E-CBCD-4201-8026-CD58C840939D" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -171;
@@ -43041,7 +43033,7 @@ value = "The Heraclito Project Authors";
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"92B4EA3D-FB5D-4A4F-93D4-532A379F7211" = {
+"40CDE73F-57A4-4695-A0C8-7244E9D52202" = {
 HV = 64;
 HH = 62;
 OV = 66;
@@ -43051,7 +43043,7 @@ oH = 64;
 nV = 60;
 tH = 58;
 };
-"E0D3637C-DFAE-46FE-ABBC-43C2FC0937C6" = {
+"FC81129E-CBCD-4201-8026-CD58C840939D" = {
 HV = 265;
 HH = 219;
 OV = 270;
@@ -43061,7 +43053,7 @@ oH = 197;
 nV = 206;
 tH = 181;
 };
-"7B7025DB-32D1-45E9-B8AD-2A1739A26F17" = {
+"066FA146-1B0F-4CB2-BC80-6E1AAE3525A6" = {
 HV = 502;
 HH = 404;
 OV = 512;
@@ -43074,5 +43066,5 @@ tH = 326;
 };
 };
 versionMajor = 2;
-versionMinor = 11;
+versionMinor = 12;
 }
