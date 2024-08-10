@@ -1772,7 +1772,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "E54FAD38-750E-4B71-8DF5-F51E86814837";
+id = "ACC68ED7-090D-44D5-AAFF-0469E6DB44F9";
 metricValues = (
 {
 pos = 1810;
@@ -1884,7 +1884,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "05BA3582-6D3A-46F3-B384-2CB43233C8D8";
+id = "41A58E25-2A30-43B8-A833-8DF1146DB1D0";
 metricValues = (
 {
 pos = 1810;
@@ -1996,7 +1996,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "ED5B59FA-EE81-4681-A18F-45A8C2547072";
+id = "F5BB03DC-90D7-4BD2-8F96-FD135251F48A";
 metricValues = (
 {
 pos = 1810;
@@ -2092,7 +2092,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"05BA3582-6D3A-46F3-B384-2CB43233C8D8" = {
+"41A58E25-2A30-43B8-A833-8DF1146DB1D0" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -171;
@@ -16796,7 +16796,7 @@ upsilondieresistonos = -17;
 upsilontonos = -17;
 };
 };
-"E54FAD38-750E-4B71-8DF5-F51E86814837" = {
+"ACC68ED7-090D-44D5-AAFF-0469E6DB44F9" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -180;
@@ -28760,7 +28760,7 @@ upsilondieresistonos = -15;
 upsilontonos = -15;
 };
 };
-"ED5B59FA-EE81-4681-A18F-45A8C2547072" = {
+"F5BB03DC-90D7-4BD2-8F96-FD135251F48A" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -160;
@@ -42957,7 +42957,7 @@ value = "The Heraclito Project Authors";
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"E54FAD38-750E-4B71-8DF5-F51E86814837" = {
+"ACC68ED7-090D-44D5-AAFF-0469E6DB44F9" = {
 HV = 64;
 HH = 62;
 OV = 68;
@@ -42967,7 +42967,7 @@ oH = 64;
 nV = 62;
 tH = 58;
 };
-"05BA3582-6D3A-46F3-B384-2CB43233C8D8" = {
+"41A58E25-2A30-43B8-A833-8DF1146DB1D0" = {
 HV = 264;
 HH = 219;
 OV = 272;
@@ -42977,7 +42977,7 @@ oH = 197;
 nV = 206;
 tH = 181;
 };
-"ED5B59FA-EE81-4681-A18F-45A8C2547072" = {
+"F5BB03DC-90D7-4BD2-8F96-FD135251F48A" = {
 HV = 502;
 HH = 404;
 OV = 515;

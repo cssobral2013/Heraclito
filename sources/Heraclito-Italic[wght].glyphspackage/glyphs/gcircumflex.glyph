@@ -2,7 +2,7 @@
 glyphname = gcircumflex;
 layers = (
 {
-layerId = "ED5B59FA-EE81-4681-A18F-45A8C2547072";
+layerId = "F5BB03DC-90D7-4BD2-8F96-FD135251F48A";
 shapes = (
 {
 alignment = -1;
@@ -18,7 +18,7 @@ ref = uni0302;
 width = 1112;
 },
 {
-layerId = "05BA3582-6D3A-46F3-B384-2CB43233C8D8";
+layerId = "41A58E25-2A30-43B8-A833-8DF1146DB1D0";
 shapes = (
 {
 alignment = -1;
@@ -33,7 +33,7 @@ ref = uni0302;
 width = 1092;
 },
 {
-layerId = "E54FAD38-750E-4B71-8DF5-F51E86814837";
+layerId = "ACC68ED7-090D-44D5-AAFF-0469E6DB44F9";
 shapes = (
 {
 alignment = -1;
