@@ -2,7 +2,12 @@
 glyphname = uni200A;
 layers = (
 {
-layerId = "DAFD1245-179E-4A07-AD68-D4889A9FCF84";
+layerId = "FDF10714-118B-4256-971C-9D299BF9B2D9";
+name = "#instance";
+width = 112;
+},
+{
+layerId = "1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0";
 width = 112;
 }
 );

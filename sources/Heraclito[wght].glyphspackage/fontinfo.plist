@@ -1701,7 +1701,7 @@ tag = onum;
 fontMaster = (
 {
 axesValues = (
-144
+100
 );
 customParameters = (
 {
@@ -1790,7 +1790,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "87D6F04F-5F5B-448D-9F51-E06B2445F72F";
+id = "05AFCDC2-A193-4E92-AE8D-3DCA52EE59FA";
 metricValues = (
 {
 pos = 1810;
@@ -1902,7 +1902,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "DAFD1245-179E-4A07-AD68-D4889A9FCF84";
+id = "1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0";
 metricValues = (
 {
 pos = 1810;
@@ -2014,7 +2014,7 @@ guides = (
 position = "{0, 500}";
 }
 );
-id = "E1D9B40E-63EA-4761-B046-1A10EFD45ACD";
+id = "4D982121-A3EA-4020-9401-9D37D3998041";
 metricValues = (
 {
 pos = 1810;
@@ -2037,6 +2037,13 @@ name = Black;
 }
 );
 instances = (
+{
+axesValues = (
+100
+);
+interpolationWeight = 100;
+name = Thin;
+},
 {
 axesValues = (
 200
@@ -2102,7 +2109,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"87D6F04F-5F5B-448D-9F51-E06B2445F72F" = {
+"05AFCDC2-A193-4E92-AE8D-3DCA52EE59FA" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -180;
@@ -14083,7 +14090,7 @@ upsilondieresistonos = -15;
 upsilontonos = -15;
 };
 };
-"DAFD1245-179E-4A07-AD68-D4889A9FCF84" = {
+"1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -171;
@@ -28815,7 +28822,7 @@ upsilondieresistonos = -17;
 upsilontonos = -17;
 };
 };
-"E1D9B40E-63EA-4761-B046-1A10EFD45ACD" = {
+"4D982121-A3EA-4020-9401-9D37D3998041" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -60;
 "@MMK_R_T2" = -160;
@@ -43033,7 +43040,7 @@ value = "The Heraclito Project Authors";
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"87D6F04F-5F5B-448D-9F51-E06B2445F72F" = {
+"05AFCDC2-A193-4E92-AE8D-3DCA52EE59FA" = {
 HV = 64;
 HH = 62;
 OV = 66;
@@ -43043,7 +43050,7 @@ oH = 64;
 nV = 60;
 tH = 58;
 };
-"DAFD1245-179E-4A07-AD68-D4889A9FCF84" = {
+"1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0" = {
 HV = 265;
 HH = 219;
 OV = 270;
@@ -43053,7 +43060,7 @@ oH = 197;
 nV = 206;
 tH = 181;
 };
-"E1D9B40E-63EA-4761-B046-1A10EFD45ACD" = {
+"4D982121-A3EA-4020-9401-9D37D3998041" = {
 HV = 502;
 HH = 404;
 OV = 512;
@@ -43066,5 +43073,5 @@ tH = 326;
 };
 };
 versionMajor = 2;
-versionMinor = 12;
+versionMinor = 13;
 }

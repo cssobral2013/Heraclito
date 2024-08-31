@@ -2,7 +2,7 @@
 glyphname = uni0374;
 layers = (
 {
-layerId = "F5BB03DC-90D7-4BD2-8F96-FD135251F48A";
+layerId = "1AD4D874-E916-4D35-AED1-4CCD341C5511";
 shapes = (
 {
 alignment = -1;
@@ -13,7 +13,7 @@ ref = minute;
 width = 580;
 },
 {
-layerId = "41A58E25-2A30-43B8-A833-8DF1146DB1D0";
+layerId = "6EECF198-EA47-4997-AC52-FDCC72651283";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +24,7 @@ ref = minute;
 width = 512;
 },
 {
-layerId = "ACC68ED7-090D-44D5-AAFF-0469E6DB44F9";
+layerId = "C478EF9B-FDD2-4ED0-8B69-07360DB9D5A9";
 shapes = (
 {
 alignment = -1;
