@@ -2,12 +2,7 @@
 glyphname = seven.tf;
 layers = (
 {
-layerId = "181BD7BB-C34D-461B-B27B-8D2A9629369B";
-name = "#instance";
-width = 1268;
-},
-{
-layerId = "1AD4D874-E916-4D35-AED1-4CCD341C5511";
+layerId = "E7B352D6-DDF7-4BB1-9248-C29C5148A582";
 shapes = (
 {
 closed = 1;
@@ -39,7 +34,7 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "6EECF198-EA47-4997-AC52-FDCC72651283";
+layerId = "1ECFA0BB-D4D0-440A-AF13-F612441316F9";
 shapes = (
 {
 closed = 1;
@@ -71,7 +66,39 @@ nodes = (
 width = 1268;
 },
 {
-layerId = "C478EF9B-FDD2-4ED0-8B69-07360DB9D5A9";
+layerId = "3DB0A36A-4459-4A7E-AA85-C98DCD1D5A19";
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,0,l),
+(332,191,o),
+(468,374,o),
+(601,561,cs),
+(912,993,ls),
+(990,1101,o),
+(1064,1203,o),
+(1141,1310,c),
+(1176,1270,l),
+(885,1270,l),
+(364,1270,l),
+(399,1426,l),
+(1363,1426,l),
+(1336,1304,l),
+(1214,1135,o),
+(1099,973,o),
+(974,798,cs),
+(765,507,ls),
+(646,340,o),
+(525,173,o),
+(402,0,c)
+);
+}
+);
+width = 1268;
+},
+{
+layerId = "63B846B6-E5C3-431C-B192-887AE8F7062B";
 shapes = (
 {
 closed = 1;

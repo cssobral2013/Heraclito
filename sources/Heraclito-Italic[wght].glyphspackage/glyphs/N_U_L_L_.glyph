@@ -2,12 +2,11 @@
 glyphname = NULL;
 layers = (
 {
-layerId = "181BD7BB-C34D-461B-B27B-8D2A9629369B";
-name = "#instance";
+layerId = "1ECFA0BB-D4D0-440A-AF13-F612441316F9";
 width = 0;
 },
 {
-layerId = "6EECF198-EA47-4997-AC52-FDCC72651283";
+layerId = "3DB0A36A-4459-4A7E-AA85-C98DCD1D5A19";
 width = 0;
 }
 );

@@ -2,7 +2,7 @@
 glyphname = quotedbl;
 layers = (
 {
-layerId = "4D982121-A3EA-4020-9401-9D37D3998041";
+layerId = "3741C398-C536-4E04-9B31-DF775DED3426";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = quotesingle;
 width = 1012;
 },
 {
-layerId = "1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0";
+layerId = "32AC1926-81FC-462E-AFF9-9B08428E2569";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,39 @@ ref = quotesingle;
 width = 811;
 },
 {
-layerId = "05AFCDC2-A193-4E92-AE8D-3DCA52EE59FA";
+layerId = "608C4FA3-96E7-4DF2-B0AE-105347578AB3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,875,l),
+(247,1085,o),
+(261,1283,o),
+(274,1489,c),
+(87,1484,l),
+(101,1280,o),
+(114,1084,o),
+(118,873,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(583,875,l),
+(587,1085,o),
+(601,1283,o),
+(614,1489,c),
+(427,1484,l),
+(441,1280,o),
+(454,1084,o),
+(458,873,c)
+);
+}
+);
+width = 743;
+},
+{
+layerId = "5E854513-9682-4163-9876-812542B08F08";
 shapes = (
 {
 alignment = -1;

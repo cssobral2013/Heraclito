@@ -2,7 +2,7 @@
 glyphname = uni0412;
 layers = (
 {
-layerId = "4D982121-A3EA-4020-9401-9D37D3998041";
+layerId = "3741C398-C536-4E04-9B31-DF775DED3426";
 shapes = (
 {
 alignment = -1;
@@ -12,7 +12,7 @@ ref = B;
 width = 1362;
 },
 {
-layerId = "1C7D9B22-12D2-48C2-AAB6-7F43D5B1BEB0";
+layerId = "32AC1926-81FC-462E-AFF9-9B08428E2569";
 shapes = (
 {
 alignment = -1;
@@ -22,7 +22,17 @@ ref = B;
 width = 1310;
 },
 {
-layerId = "05AFCDC2-A193-4E92-AE8D-3DCA52EE59FA";
+layerId = "608C4FA3-96E7-4DF2-B0AE-105347578AB3";
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1292;
+},
+{
+layerId = "5E854513-9682-4163-9876-812542B08F08";
 shapes = (
 {
 alignment = -1;

@@ -2,7 +2,7 @@
 glyphname = Scircumflex;
 layers = (
 {
-layerId = "1AD4D874-E916-4D35-AED1-4CCD341C5511";
+layerId = "E7B352D6-DDF7-4BB1-9248-C29C5148A582";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = uni0302.case;
 width = 1232;
 },
 {
-layerId = "6EECF198-EA47-4997-AC52-FDCC72651283";
+layerId = "1ECFA0BB-D4D0-440A-AF13-F612441316F9";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,22 @@ ref = uni0302.case;
 width = 1188;
 },
 {
-layerId = "C478EF9B-FDD2-4ED0-8B69-07360DB9D5A9";
+layerId = "3DB0A36A-4459-4A7E-AA85-C98DCD1D5A19";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (-492,0);
+ref = uni0302.case;
+}
+);
+width = 1173;
+},
+{
+layerId = "63B846B6-E5C3-431C-B192-887AE8F7062B";
 shapes = (
 {
 alignment = -1;
