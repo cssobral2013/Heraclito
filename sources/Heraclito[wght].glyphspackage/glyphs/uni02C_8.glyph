@@ -2,7 +2,7 @@
 glyphname = uni02C8;
 layers = (
 {
-layerId = "3741C398-C536-4E04-9B31-DF775DED3426";
+layerId = "135E7D02-2C2C-473D-8440-7E1667D0FE7D";
 shapes = (
 {
 closed = 1;
@@ -17,7 +17,7 @@ nodes = (
 width = 460;
 },
 {
-layerId = "32AC1926-81FC-462E-AFF9-9B08428E2569";
+layerId = "92C58FB0-5B53-4564-A5F2-AE63550C786A";
 shapes = (
 {
 closed = 1;
@@ -32,22 +32,22 @@ nodes = (
 width = 417;
 },
 {
-layerId = "608C4FA3-96E7-4DF2-B0AE-105347578AB3";
+layerId = "C18B794B-6E1F-49F6-B17C-E02DC1D0FE96";
 shapes = (
 {
 closed = 1;
 nodes = (
-(269,1051,l),
-(269,1558,l),
-(132,1558,l),
-(132,1051,l)
+(265,1052,l),
+(265,1558,l),
+(135,1558,l),
+(135,1052,l)
 );
 }
 );
-width = 402;
+width = 400;
 },
 {
-layerId = "5E854513-9682-4163-9876-812542B08F08";
+layerId = "94197535-374B-4926-914D-6CE8AC50E1C9";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,7 @@
 glyphname = acutecomb;
 layers = (
 {
-layerId = "E7B352D6-DDF7-4BB1-9248-C29C5148A582";
+layerId = "3CA9A7E0-8162-4AA0-82FE-E4D3CFC06BA1";
 shapes = (
 {
 closed = 1;
@@ -24,7 +24,7 @@ nodes = (
 width = 1200;
 },
 {
-layerId = "1ECFA0BB-D4D0-440A-AF13-F612441316F9";
+layerId = "E0A1A151-DA4E-45E7-B25E-CE8CFFEFF43B";
 shapes = (
 {
 closed = 1;
@@ -46,29 +46,29 @@ nodes = (
 width = 1200;
 },
 {
-layerId = "3DB0A36A-4459-4A7E-AA85-C98DCD1D5A19";
+layerId = "C537678D-9F31-4CE8-A163-37FABCD6ED8A";
 shapes = (
 {
 closed = 1;
 nodes = (
-(1225,1154,l),
-(1351,1292,o),
-(1469,1419,o),
-(1591,1552,c),
-(1787,1556,l),
-(1740,1511,o),
-(1695,1467,o),
-(1648,1421,cs),
-(1555,1332,o),
-(1465,1243,o),
-(1374,1157,c)
+(1229,1156,l),
+(1355,1293,o),
+(1474,1419,o),
+(1596,1553,c),
+(1783,1556,l),
+(1737,1511,o),
+(1691,1467,o),
+(1645,1422,cs),
+(1552,1333,o),
+(1462,1245,o),
+(1371,1158,c)
 );
 }
 );
 width = 1200;
 },
 {
-layerId = "63B846B6-E5C3-431C-B192-887AE8F7062B";
+layerId = "FCB7EB2F-12FE-49E3-9961-0638D9E3BD27";
 shapes = (
 {
 closed = 1;
