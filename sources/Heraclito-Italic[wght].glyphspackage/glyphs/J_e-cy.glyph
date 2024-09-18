@@ -1,0 +1,91 @@
+{
+glyphname = "Je-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{214, 0}";
+},
+{
+name = top;
+position = "{589, 1426}";
+}
+);
+layerId = "6CC8052E-A7C6-44E2-8E9C-A2068213855B";
+shapes = (
+{
+alignment = -1;
+pos = (103,0);
+ref = J;
+}
+);
+width = 902;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{187, 0}";
+},
+{
+name = top;
+position = "{562, 1426}";
+}
+);
+layerId = "A92189D3-E43F-4E85-852B-95339EDAAFD5";
+shapes = (
+{
+alignment = -1;
+pos = (111,0);
+ref = J;
+}
+);
+width = 830;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{169, 0}";
+},
+{
+name = top;
+position = "{544, 1426}";
+}
+);
+layerId = "3AF8F6E5-7887-438A-A5DF-2D8A93328E8A";
+shapes = (
+{
+alignment = -1;
+pos = (111,0);
+ref = J;
+}
+);
+width = 796;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{154, 0}";
+},
+{
+name = top;
+position = "{529, 1426}";
+}
+);
+layerId = "7B0CF4BA-321F-4E0C-A751-EA3178BD3C09";
+shapes = (
+{
+alignment = -1;
+pos = (110,0);
+ref = J;
+}
+);
+width = 754;
+}
+);
+rightKerningGroup = uni0406;
+unicode = 1032;
+}

@@ -1,0 +1,91 @@
+{
+glyphname = "Dze-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{484, 0}";
+},
+{
+name = top;
+position = "{859, 1426}";
+}
+);
+layerId = "6CC8052E-A7C6-44E2-8E9C-A2068213855B";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = S;
+}
+);
+width = 1232;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{471, 0}";
+},
+{
+name = top;
+position = "{846, 1426}";
+}
+);
+layerId = "A92189D3-E43F-4E85-852B-95339EDAAFD5";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = S;
+}
+);
+width = 1188;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{463, 0}";
+},
+{
+name = top;
+position = "{838, 1426}";
+}
+);
+layerId = "3AF8F6E5-7887-438A-A5DF-2D8A93328E8A";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = S;
+}
+);
+width = 1171;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{456, 0}";
+},
+{
+name = top;
+position = "{831, 1426}";
+}
+);
+layerId = "7B0CF4BA-321F-4E0C-A751-EA3178BD3C09";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = S;
+}
+);
+width = 1150;
+}
+);
+rightKerningGroup = uni0405;
+unicode = 1029;
+}

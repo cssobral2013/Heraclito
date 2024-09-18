@@ -1,0 +1,176 @@
+{
+glyphname = Ohornhookabove;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{812, 0}";
+},
+{
+name = center;
+position = "{812, 714}";
+},
+{
+name = ogonek;
+position = "{1062, 0}";
+},
+{
+name = top;
+position = "{812, 2008}";
+},
+{
+name = topleft;
+position = "{142, 1426}";
+}
+);
+layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (792,422);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (212,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1776;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{815, 0}";
+},
+{
+name = center;
+position = "{815, 714}";
+},
+{
+name = ogonek;
+position = "{1030, 0}";
+},
+{
+name = top;
+position = "{814, 1945}";
+},
+{
+name = topleft;
+position = "{111, 1426}";
+}
+);
+layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (820,431);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (215,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1701;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{817, 0}";
+},
+{
+name = center;
+position = "{817, 714}";
+},
+{
+name = ogonek;
+position = "{1007, 0}";
+},
+{
+name = top;
+position = "{815, 1900}";
+},
+{
+name = topleft;
+position = "{88, 1426}";
+}
+);
+layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (831,434);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (216,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1673;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{818, 0}";
+},
+{
+name = center;
+position = "{818, 714}";
+},
+{
+name = ogonek;
+position = "{988, 0}";
+},
+{
+name = top;
+position = "{816, 1864}";
+},
+{
+name = topleft;
+position = "{70, 1426}";
+}
+);
+layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (844,438);
+ref = horncomb;
+},
+{
+alignment = -1;
+pos = (218,0);
+ref = hookabovecomb.case;
+}
+);
+width = 1638;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = Ohorn;
+unicode = 7902;
+}

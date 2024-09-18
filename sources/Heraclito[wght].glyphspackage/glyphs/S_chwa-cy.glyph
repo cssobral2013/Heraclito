@@ -1,0 +1,88 @@
+{
+glyphname = "Schwa-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{773, 0}";
+},
+{
+name = top;
+position = "{773, 1426}";
+}
+);
+layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 1546;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{782, 0}";
+},
+{
+name = top;
+position = "{782, 1426}";
+}
+);
+layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 1568;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{788, 0}";
+},
+{
+name = top;
+position = "{788, 1426}";
+}
+);
+layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 1576;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{793, 0}";
+},
+{
+name = top;
+position = "{793, 1426}";
+}
+);
+layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 1586;
+}
+);
+leftKerningGroup = uni0404_2;
+rightKerningGroup = uni041E;
+unicode = 1240;
+}

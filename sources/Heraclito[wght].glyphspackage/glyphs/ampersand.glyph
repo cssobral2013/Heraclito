@@ -2,7 +2,7 @@
 glyphname = ampersand;
 layers = (
 {
-layerId = "70396C8E-6CDB-42F9-9328-A9E72BA9B704";
+layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
 shapes = (
 {
 closed = 1;
@@ -129,7 +129,7 @@ nodes = (
 width = 1594;
 },
 {
-layerId = "3EF77CA0-AC37-45E2-BAEE-C9E0CE64A2A3";
+layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
 shapes = (
 {
 closed = 1;
@@ -256,7 +256,7 @@ nodes = (
 width = 1500;
 },
 {
-layerId = "24538CAD-4802-43D5-ADA8-22A032C706C3";
+layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
 shapes = (
 {
 closed = 1;
@@ -383,7 +383,7 @@ nodes = (
 width = 1464;
 },
 {
-layerId = "8D116CAD-4DFA-4CD5-B105-D71FC4D96B49";
+layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
 shapes = (
 {
 closed = 1;

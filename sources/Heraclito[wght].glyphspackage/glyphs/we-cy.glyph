@@ -1,0 +1,88 @@
+{
+glyphname = "we-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{854, 0}";
+},
+{
+name = top;
+position = "{854, 1004}";
+}
+);
+layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1726;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{823, 0}";
+},
+{
+name = top;
+position = "{823, 997}";
+}
+);
+layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1633;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{800, 0}";
+},
+{
+name = top;
+position = "{800, 992}";
+}
+);
+layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1597;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{782, 0}";
+},
+{
+name = top;
+position = "{782, 988}";
+}
+);
+layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1554;
+}
+);
+leftKerningGroup = uni0443_2;
+rightKerningGroup = uni0443;
+unicode = 1309;
+}

@@ -2,7 +2,29 @@
 glyphname = Hcircumflex;
 layers = (
 {
-layerId = "DD05D972-36B8-4829-B947-B0CCB227D6F6";
+anchors = (
+{
+name = "#exit";
+position = "{1276, 0}";
+},
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{807, 714}";
+},
+{
+name = top;
+position = "{1122, 1912}";
+},
+{
+name = topleft;
+position = "{325, 1426}";
+}
+);
+layerId = "6CC8052E-A7C6-44E2-8E9C-A2068213855B";
 shapes = (
 {
 alignment = -1;
@@ -11,13 +33,35 @@ ref = H;
 {
 alignment = -1;
 pos = (-337,0);
-ref = uni0302.case;
+ref = circumflexcomb.case;
 }
 );
 width = 1502;
 },
 {
-layerId = "169D2073-077B-44F5-BCEC-2735DA378421";
+anchors = (
+{
+name = "#exit";
+position = "{1220, 0}";
+},
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{807, 714}";
+},
+{
+name = top;
+position = "{1118, 1902}";
+},
+{
+name = topleft;
+position = "{300, 1426}";
+}
+);
+layerId = "A92189D3-E43F-4E85-852B-95339EDAAFD5";
 shapes = (
 {
 alignment = -1;
@@ -26,13 +70,35 @@ ref = H;
 {
 alignment = -1;
 pos = (-336,0);
-ref = uni0302.case;
+ref = circumflexcomb.case;
 }
 );
 width = 1500;
 },
 {
-layerId = "B4BCD950-06D7-4C92-89A8-A8FD079D3312";
+anchors = (
+{
+name = "#exit";
+position = "{1179, 0}";
+},
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{807, 714}";
+},
+{
+name = top;
+position = "{1115, 1894}";
+},
+{
+name = topleft;
+position = "{282, 1426}";
+}
+);
+layerId = "3AF8F6E5-7887-438A-A5DF-2D8A93328E8A";
 shapes = (
 {
 alignment = -1;
@@ -41,13 +107,35 @@ ref = H;
 {
 alignment = -1;
 pos = (-336,0);
-ref = uni0302.case;
+ref = circumflexcomb.case;
 }
 );
 width = 1499;
 },
 {
-layerId = "55FA06AC-4879-4DE1-88D6-2E093DDAA9A7";
+anchors = (
+{
+name = "#exit";
+position = "{1147, 0}";
+},
+{
+name = bottom;
+position = "{620, 0}";
+},
+{
+name = center;
+position = "{808, 714}";
+},
+{
+name = top;
+position = "{1113, 1888}";
+},
+{
+name = topleft;
+position = "{268, 1426}";
+}
+);
+layerId = "7B0CF4BA-321F-4E0C-A751-EA3178BD3C09";
 shapes = (
 {
 alignment = -1;
@@ -56,7 +144,7 @@ ref = H;
 {
 alignment = -1;
 pos = (-335,0);
-ref = uni0302.case;
+ref = circumflexcomb.case;
 }
 );
 width = 1498;

@@ -1,0 +1,91 @@
+{
+glyphname = "Esdescender-cy.loclCHU";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{786, 1426}";
+}
+);
+layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (186,0);
+ref = cedillacomb;
+}
+);
+width = 1364;
+},
+{
+anchors = (
+{
+name = top;
+position = "{784, 1426}";
+}
+);
+layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (196,0);
+ref = cedillacomb;
+}
+);
+width = 1368;
+},
+{
+anchors = (
+{
+name = top;
+position = "{783, 1426}";
+}
+);
+layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (200,0);
+ref = cedillacomb;
+}
+);
+width = 1370;
+},
+{
+anchors = (
+{
+name = top;
+position = "{782, 1426}";
+}
+);
+layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (204,0);
+ref = cedillacomb;
+}
+);
+width = 1372;
+}
+);
+leftKerningGroup = uni0404_2;
+rightKerningGroup = uni0404;
+}

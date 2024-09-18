@@ -1,0 +1,52 @@
+{
+glyphname = bulletoperator;
+layers = (
+{
+layerId = "6CC8052E-A7C6-44E2-8E9C-A2068213855B";
+shapes = (
+{
+alignment = -1;
+pos = (6,30);
+ref = periodcentered;
+}
+);
+width = 604;
+},
+{
+layerId = "A92189D3-E43F-4E85-852B-95339EDAAFD5";
+shapes = (
+{
+alignment = -1;
+pos = (36,-24);
+ref = periodcentered;
+}
+);
+width = 594;
+},
+{
+layerId = "3AF8F6E5-7887-438A-A5DF-2D8A93328E8A";
+shapes = (
+{
+alignment = -1;
+pos = (47,-45);
+ref = periodcentered;
+}
+);
+width = 590;
+},
+{
+layerId = "7B0CF4BA-321F-4E0C-A751-EA3178BD3C09";
+shapes = (
+{
+alignment = -1;
+pos = (60,-70);
+ref = periodcentered;
+}
+);
+width = 584;
+}
+);
+leftKerningGroup = plus2;
+rightKerningGroup = plus;
+unicode = 8729;
+}
