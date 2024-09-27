@@ -2,7 +2,7 @@
 glyphname = twosuperior;
 layers = (
 {
-layerId = "6CC8052E-A7C6-44E2-8E9C-A2068213855B";
+layerId = "88659256-3F30-40E7-9696-2B2DC1F8E116";
 shapes = (
 {
 alignment = -1;
@@ -13,7 +13,7 @@ ref = two.dnom;
 width = 872;
 },
 {
-layerId = "A92189D3-E43F-4E85-852B-95339EDAAFD5";
+layerId = "21D94FDA-A95C-474B-951E-BE67C5105DB2";
 shapes = (
 {
 alignment = -1;
@@ -24,7 +24,7 @@ ref = two.dnom;
 width = 821;
 },
 {
-layerId = "3AF8F6E5-7887-438A-A5DF-2D8A93328E8A";
+layerId = "3D47BFF5-453B-49C2-B010-5B64E116DAF2";
 shapes = (
 {
 alignment = -1;
@@ -35,7 +35,7 @@ ref = two.dnom;
 width = 802;
 },
 {
-layerId = "7B0CF4BA-321F-4E0C-A751-EA3178BD3C09";
+layerId = "CBE96DA9-FC64-4659-8F3D-7668682A4A62";
 shapes = (
 {
 alignment = -1;

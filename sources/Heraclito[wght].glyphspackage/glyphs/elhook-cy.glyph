@@ -2,7 +2,7 @@
 glyphname = "elhook-cy";
 layers = (
 {
-layerId = "6CD39112-DB7C-4870-A72A-3B89CF7BEC2F";
+layerId = "01881FF6-28F4-4241-92CC-0A260EF73B3D";
 shapes = (
 {
 closed = 1;
@@ -78,7 +78,7 @@ nodes = (
 width = 1229;
 },
 {
-layerId = "068B454A-8861-4901-9D12-7077DFDCE54C";
+layerId = "A55F0C2B-6E8D-4FB2-8CDB-992FDB8C8E10";
 shapes = (
 {
 closed = 1;
@@ -154,7 +154,7 @@ nodes = (
 width = 1174;
 },
 {
-layerId = "530C47E7-7F98-4E49-946D-E245391E2E52";
+layerId = "18A54BDD-310B-488C-A032-20C0CCB5659F";
 shapes = (
 {
 closed = 1;
@@ -230,7 +230,7 @@ nodes = (
 width = 1153;
 },
 {
-layerId = "17616679-9B94-41DB-9F8F-857BF431B8D7";
+layerId = "42B9E918-1EE0-49C2-B7C8-A26B802712C7";
 shapes = (
 {
 closed = 1;
